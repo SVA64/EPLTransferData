@@ -1,0 +1,1251 @@
+,Season,Player,Age,Sellingteam,Buyingteam,Marketvalue,Fee
+0,2013,Juan Mata,25,Chelsea,ManUtd,34.2,40.26
+1,2013,Nemanja Matic,25,Benfica,Chelsea,24.3,22.5
+2,2013,Yohan Cabaye,28,Newcastle,Paris SG,18,22.5
+3,2013,Kevin De Bruyne,22,Chelsea,VfL Wolfsburg,13.5,19.8
+4,2013,Hernanes,28,Lazio,Inter,19.8,16.2
+5,2013,Jose Salomon Rondon,24,Rubin Kazan,Zenit S-Pb,9.9,16.2
+6,2013,Mohamed Salah,21,FC Basel,Chelsea,7.65,14.85
+7,2013,Konstantinos Mitroglou,25,Olympiacos,Fulham,6.48,13.68
+8,2013,Kurt Zouma,19,Saint-Etienne,Chelsea,6.75,13.14
+9,2013,Leandro Damiao,24,Internacional,Santos FC,19.8,11.7
+10,2013,Lacina Traore,23,Anzhi,Monaco,14.4,9
+11,2013,Jorginho,22,Hellas Verona,SSC Napoli,9,8.55
+12,2013,Shane Long,27,West Brom,Hullcity,4.95,7.65
+13,2013,Nilmar,29,Al Rayyan,El-Jaish,4.5,7.2
+14,2013,Nikica Jelavic,28,Everton,Hullcity,5.85,7.02
+15,2013,Alessandro Diamanti,30,Bologna,GZ Evergrande,7.2,6.75
+16,2013,Walter Montillo,29,Santos FC,SD Luneng,3.6,6.75
+17,2013,Michael Bradley,26,AS Roma,Toronto FC,5.85,6.66
+18,2013,Jermain Defoe,31,Tottenham,Toronto FC,5.4,6.57
+19,2013,Felipe Caicedo,25,Loko Moscow,Al-Jazira,7.2,6.3
+20,2013,Alex Telles,21,Gremio,Galatasaray,1.35,5.54
+21,2013,Jucilei,25,Anzhi,Al-Jazira,9.9,5.4
+22,2013,Rene Junior,24,Tombense,GZ Evergrande,0.675,5.4
+23,2013,Antonio Sanabria,17,FC Barcelona B,Sassuolo,0.54,5.13
+24,2013,Vladimir Weiss,24,Olympiacos,Al Duhail,3.78,4.77
+25,2013,Marko Devic,30,Metalist,Rubin Kazan,7.2,4.5
+26,2013,Ja-cheol Koo,24,VfL Wolfsburg,1.FSV Mainz 05,3.6,4.5
+27,2013,Pavel Mamaev,25,CSKA Moscow,Krasnodar,3.33,4.5
+28,2013,Paul-Georges Ntep,21,AJ Auxerre,Stade Rennais,2.7,4.5
+29,2013,Faouzi Ghoulam,23,Saint-Etienne,SSC Napoli,2.7,4.5
+30,2013,Aloisio,25,Sao Paulo,SD Luneng,0.9,4.5
+31,2013,Ragnar Sigurdsson,27,FC Copenhagen,Krasnodar,1.58,3.83
+32,2013,Henrique,27,Palmeiras,SSC Napoli,2.25,3.6
+33,2013,Charles Aranguiz,24,U. de Chile,Udinese Calcio,1.98,3.6
+34,2013,Danilo D'Ambrosio,25,Torino,Inter,4.5,3.41
+35,2013,Andres Rios,25,River Plate,America,1.98,3.33
+36,2013,Liam Bridcutt,24,BrightonAlbion,Sunderland,3.15,3.29
+37,2013,Ignacio Scocco,28,Internacional,Sunderland,5.4,3.29
+38,2013,Wayne Hennessey,27,Wolves,CrystalPalace Palace,2.25,3.29
+39,2013,Abderazak Hamdallah,23,Aalesund,GZ R&F,1.26,3.24
+40,2013,Pablo Batalla,30,Bursaspor,BJ Sinobo Guoan,5.4,3.15
+41,2013,Andreas Cornelius,20,CardiffCity,FC Copenhagen,5.4,3.15
+42,2013,Sergio Canales,22,Valencia,Real Sociedad,4.5,3.15
+43,2013,Izet Hajrovic,22,Grasshoppers,Galatasaray,3.6,3.15
+44,2013,Joe Ledley,27,Celtic,CrystalPalace Palace,3.15,3.15
+45,2013,Vinicius Araujo,20,Cruzeiro,Valencia,0.9,3.15
+46,2013,Dalei Wang,24,SH Shenhua,SD Luneng,0.36,3.15
+47,2013,Lucho Gonzalez,33,FC Porto,Al Rayyan,4.5,2.97
+48,2013,Enner Valencia,24,CS Emelec,CF Pachuca,1.44,2.95
+49,2013,Nicolas Blandi,24,Boca Juniors,San Lorenzo,2.52,2.88
+50,2013,Zhipeng Jiang,24,SH Shenxin,GZ R&F,0.248,2.84
+51,2013,Radja Nainggolan,25,Cagliari Calcio,AS Roma,15.3,2.7
+52,2013,Mats Moller Daehli,18,Molde FK,CardiffCity,0.81,2.7
+53,2013,Nicolas Castillo,20,CDUC,Club Brugge,0.135,2.7
+54,2013,Milan Vilotic,27,Grasshoppers,BSC Young Boys,2.25,2.61
+55,2013,Todor Nedelev,20,Botev Plovdiv,1.FSV Mainz 05,2.7,2.52
+56,2013,Salih Dursun,22,Kayserispor,Galatasaray,1.98,2.48
+57,2013,Dominik Furman,21,Legia Warszawa,Toulouse,1.58,2.39
+58,2013,Rafael Marques,30,Botafogo,HN Jianye,0.9,2.3
+59,2013,Boxuan Song,24,SH Shenhua,BJ Sinobo Guoan,0.225,2.3
+60,2013,Ola Toivonen,27,PSV Eindhoven,Stade Rennais,5.85,2.25
+61,2013,Sammir,26,Dinamo Zagreb,Getafe,3.6,2.25
+62,2013,Taras Burlak,23,Loko Moscow,Rubin Kazan,2.7,2.25
+63,2013,Magnus Wolff Eikrem,23,Heerenveen,CardiffCity,1.98,2.25
+64,2013,Leandro,20,Gremio,Palmeiras,1.35,2.25
+65,2013,Koray Gunter,19,Bor. Dortmund,Galatasaray,0.45,2.25
+66,2013,Xiaolong Wang,27,BJ Sinobo Guoan,GZ R&F,0.27,2.18
+67,2013,Stefan Johansen,23,Stromsgodset,Celtic,1.98,2.17
+68,2013,Douglas Santos,19,Granada CF,Udinese Calcio,2.25,2.07
+69,2013,David Pollet,25,RSC Charleroi,RSC Anderlecht,0.9,2.03
+70,2013,Hyun-soo Jang,22,FC Tokyo,GZ R&F,0.45,2.03
+71,2013,Zhizhao Chen,25,SH Shenxin,BJ Sinobo Guoan,0.225,2.03
+72,2013,Jason Puncheon,27,Southampton,CrystalPalace Palace,2.7,1.98
+73,2013,Milos Jojic,21,Partizan,Bor. Dortmund,1.35,1.98
+74,2013,Jair Pereira,27,CD Cruz Azul,Chivas,0.9,1.98
+75,2013,Walter,24,FC Porto,Fluminense,1.35,1.91
+76,2013,Ruben Vezo,19,Vitoria Setubal,Valencia,0.63,1.85
+77,2013,Aiden McGeady,27,Spartak Moscow,Everton,6.75,1.8
+78,2013,Sergio Floccari,32,Lazio,Sassuolo,2.07,1.8
+79,2013,Lucas Ontivero,19,CA Fenix,Galatasaray,0.18,1.8
+80,2013,Scott Dann,26,Blackburn,CrystalPalace Palace,3.6,1.65
+81,2013,Junior Urso,24,Coritiba FC,SD Luneng,0.36,1.64
+82,2013,Wilfried Zaha,21,ManUtd,CardiffCity,8.1,1.62
+83,2013,Nahki Wells,23,Bradford,Huddersfield,0.675,1.62
+84,2013,Wenzhao Zhang,26,CC Yatai,SD Luneng,0.225,1.62
+85,2013,Di Gao,24,SD Luneng,SH Shenhua,0.135,1.62
+86,2013,Gianluca Caprari,20,AS Roma,Pescara,1.62,1.58
+87,2013,Gabriele Moncini,17,Juventus U19,Cesena U19,68,1.58
+88,2013,Dejan Damjanovic,32,FC Seoul,JS Suning,1.35,1.49
+89,2013,Laurentiu Branescu,19,Juventus,Virtus Lanciano,0.36,1.49
+90,2013,Leo Baptistao,21,Atletico Madrid,Real Betis,6.3,1.44
+91,2013,Jeremy Taravel,26,KSC Lokeren,Dinamo Zagreb,1.8,1.44
+92,2013,Habib Habibou,26,Zulte Waregem,KAA Gent,0.9,1.44
+93,2013,Diego,28,VfL Wolfsburg,Atletico Madrid,10.8,1.35
+94,2013,Jose Sosa,28,Metalist,Atletico Madrid,8.1,1.35
+95,2013,Luuk de Jong,23,Bor. M'gladbach,Newcastle,6.75,1.35
+96,2013,Rafik Djebbour,29,Olympiacos,Nottm Forest,5.4,1.35
+97,2013,Eduardo Vargas,24,SSC Napoli,Valencia,5.4,1.35
+98,2013,Ludovic Obraniak,29,G. Bordeaux,Werder Bremen,4.5,1.35
+99,2013,Elderson,26,Braga,Monaco,4.05,1.35
+100,2013,Giammario Piscitella,20,Pescara,AS Roma,1.35,1.35
+101,2013,Zacharie Boucher,21,AC Le Havre,Toulouse,1.35,1.35
+102,2013,Ruben Bentancourt,20,PSV U21,Atalanta,45,1.35
+103,2013,Simone Emmanuello,19,Juventus U19,Atalanta U19,45,1.35
+104,2013,Everton,25,Tigres UANL,Flamengo,0.54,1.35
+105,2013,Jong-uh Park,24,Busan IPark,GZ R&F,0.72,1.31
+106,2013,Jhon Fredy Pajoy,25,Atl. Nacional,CF Pachuca,0.9,1.26
+107,2013,Alexandru Bourceanu,28,FCSB,Trabzonspor,3.6,1.17
+108,2013,Patrick Ebert,26,Real Valladolid,Spartak Moscow,2.7,1.17
+109,2013,Hyuri,22,Audax-RJ,BJ Renhe,0.135,1.17
+110,2013,Lucas Lima,23,Internacional,Santos FC,0,1.13
+111,2013,Volkan Sen,26,Trabzonspor,Bursaspor,1.53,1.13
+112,2013,Leigh Griffiths,23,Wolves,Celtic,0.675,1.13
+113,2013,Eric,28,Pandurii T.-Jiu,Ahli,2.16,1.08
+114,2013,Pasquale Schiattarella,26,AS Livorno,Spezia Calcio,1.44,1.08
+115,2013,Dae-seong Ha,28,FC Seoul,BJ Sinobo Guoan,1.35,1.08
+116,2013,Alexis Zapata,18,Envigado,Granada CF,0,1.06
+117,2013,Ondrej Vanek,23,FK Jablonec,Kayserispor,0.72,1.04
+118,2013,Lin Dai,26,SH Shenhua,SD Luneng,0.135,1.04
+119,2013,Andile Jali,23,Orlando Pirates,KV Oostende,0.72,1.03
+120,2013,Michel Bastos,30,Al-Ain FC,AS Roma,2.7,0.99
+121,2013,Pejman Montazeri,30,Esteghlal FC ,Umm Salal,1.08,0.99
+122,2013,Stefano Gori,17,Brescia U19,Milan U19,68,0.99
+123,2013,Kelechi Iheanacho,17,Taye Academy,ManCity U18,0,0.99
+124,2013,Nemanja Radonjic,17,Ac. Hagi,Roma U19,0,0.936
+125,2013,Ishak Belfodil,22,Inter,AS Livorno,9.9,0.9
+126,2013,Bryan Ruiz,28,Fulham,PSV Eindhoven,7.2,0.9
+127,2013,Benoit Tremoulinas,28,Dynamo Kyiv,Saint-Etienne,6.3,0.9
+128,2013,Andres Guardado,27,Valencia,Bay. Leverkusen,5.4,0.9
+129,2013,Heldon,25,Maritimo,Sporting CP,2.34,0.9
+130,2013,Lucas Mugni,22,Colon,Flamengo,2.25,0.9
+131,2013,Fatos Beqiraj,25,Dinamo Zagreb,CC Yatai,1.8,0.9
+132,2013,Leon Benko,30,HNK Rijeka,DL Yifang,1.35,0.9
+133,2013,Aleksandr Sheshukov,30,Rostov,Loko Moscow,0.9,0.9
+134,2013,Jose Nunez,25,Libertad,Brondby IF,0.9,0.9
+135,2013,Tobias Hysen,31,IFK Goteborg,SIPG,0.9,0.9
+136,2013,Giorgi Chanturia,20,Vitesse,CFR Cluj,0.9,0.9
+137,2013,Carlos Gruezo,18,Barcelona SC,VfB Stuttgart,0.9,0.9
+138,2013,Petar Golubovic,19,OFK Beograd,AS Roma,0.63,0.9
+139,2013,Ante Puljic,26,NK Lokomotiva,KAA Gent,0.54,0.9
+140,2013,Ondrej Petrak,21,Slavia Prag,1.FC Nuremberg,0.54,0.9
+141,2013,Stoppila Sunzu,24,TP Mazembe,FC Sochaux,0.54,0.9
+142,2013,Atanas Kurdov,25,Slavia Sofia,FC Astana,0.45,0.9
+143,2013,Ribair Rodriguez,26,Siena,Santos Laguna,0.36,0.9
+144,2013,Paulao,27,GZ Evergrande,Internacional,0.36,0.9
+145,2013,Shin-yeong Yun,26,Gyeongnam FC,JS Suning,0.293,0.9
+146,2013,Marlone,21,Vasco da Gama,Cruzeiro,0.27,0.9
+147,2013,Pablo Perez,28,Newell's,Malaga CF,1.35,0.855
+148,2013,Pablo Zeballos,27,KS Samara,Botafogo,0.765,0.81
+149,2013,Francesco Fedato,21,Bari,Sampdoria,0.63,0.81
+150,2013,Victor Garcia,19,Dep. La Guaira,FC Porto B,0,0.81
+151,2013,Julio Barroso,28,O'Higgins,Colo Colo,0.36,0.792
+152,2013,Joseph Yobo,33,Fenerbahce,Norwich,1.8,0.765
+153,2013,Yunqiu Li,23,SIPG,BJ Sinobo Guoan,0.18,0.752
+154,2013,Matz Sels,21,Lierse SK,KAA Gent,0.81,0.729
+155,2013,Kamil Grosicki,25,Sivasspor,Stade Rennais,3.42,0.72
+156,2013,Esteban Paredes,33,Queretaro FC,Colo Colo,1.35,0.72
+157,2013,Dusan Veskovac,27,BSC Young Boys,Toulouse,0.81,0.72
+158,2013,Danijel Milicevic,28,RSC Charleroi,KAA Gent,0.585,0.72
+159,2013,Kim Kallstrom,31,Spartak Moscow,Arsenal,2.7,0.675
+160,2013,Hamza Younes,27,Petr. Ploiesti,Botev Plovdiv,2.12,0.675
+161,2013,Oguzhan Kayar,18,Manisaspor,Galatasaray,45,0.675
+162,2013,Vaclav Cerny,16,Pribram U17,Ajax U17,0,0.675
+163,2013,Veysel Sari,25,Eskisehirspor,Galatasaray,5.18,0.63
+164,2013,Marco Borriello,31,AS Roma,West Ham,4.5,0.63
+165,2013,Maarten Martens,29,AZ Alkmaar,PAOK Salonika,2.7,0.63
+166,2013,Brice Dja Djedje,23,Evian,Marseille,2.7,0.63
+167,2013,Luis Leal,26,Estoril,Ahli,2.07,0.63
+168,2013,Renato Kelic,22,Slovan Liberec,Padova,0.9,0.63
+169,2013,Philipp Zulechner,23,Grodig,SC Freiburg,0.81,0.63
+170,2013,Gregory Mertens,22,Cercle Brugge,KSC Lokeren,0.72,0.63
+171,2013,Cleiton Silva,26,Police Tero FC,Queretaro FC,0,0.603
+172,2013,Asger Sorensen,17,Midtjylland U19,FC Liefering,0,0.603
+173,2013,Davide Calla,29,FC Aarau,FC Basel,0.72,0.585
+174,2013,Leo Morais,22,EC Vitoria,Flamengo,0.36,0.557
+175,2013,Jack Baldwin,20,Hartlepool Utd.,Peterborough,68,0.549
+176,2013,Garry Rodrigues,23,Levski Sofia,Elche CF,1.8,0.54
+177,2013,Alexandru Benga,24,Petr. Ploiesti,Botev Plovdiv,0.99,0.54
+178,2013,Malick Mane,25,Sogndal,IFK Goteborg,0.9,0.54
+179,2013,Adrian Bone,25,Deportivo Quito,CD El Nacional,0.9,0.54
+180,2013,Eddie Johnson,29,"Sounders FC	",D.C. United,0.675,0.54
+181,2013,Alejandro Silva,24,Olimpia,Lanus,0.293,0.54
+182,2013,Xiaofeng Geng,26,SD Luneng,SH Shenhua,0.27,0.54
+183,2013,Antonio Vutov,17,Levski Sofia,Udinese Calcio,0.27,0.54
+184,2013,Conor Washington,21,Newport County,Peterborough,45,0.54
+185,2013,Federico Palacios,18,Wolfsburg U19,RB Leipzig,0,0.54
+186,2013,Simon Dawkins,26,Tottenham,Derby,0.9,0.518
+187,2013,Torgeir Borven,22,Valerenga,FC Twente,0.63,0.495
+188,2013,Umut Gundogan,23,Bucaspor,Galatasaray,0.225,0.495
+189,2013,Emmanuel Culio,30,Dep. La Coruna,Al-Wasl,1.35,0.477
+190,2013,Yu-hwan Im,30,Jeonbuk Motors,SH Shenxin,0.113,0.468
+191,2013,Fabian Rinaudo,26,Sporting CP,Catania,6.75,0.45
+192,2013,Marek Suchy,25,Spartak Moscow,FC Basel,4.05,0.45
+193,2013,Jan Kirchhoff,23,Bayern Munich ,FC Schalke 04,3.6,0.45
+194,2013,Rafael Toloi,23,Sao Paulo,AS Roma,3.6,0.45
+195,2013,Thievy Bifouma,21,Espanyol,West Brom,2.7,0.45
+196,2013,Ozer Hurmaci,27,Kasimpasa,Trabzonspor,2.07,0.45
+197,2013,Hernan Perez,24,Villarreal,Olympiacos,1.62,0.45
+198,2013,Tunay Torun,23,VfB Stuttgart,Kasimpasa,1.35,0.45
+199,2013,Lorenzo Ariaudo,24,Cagliari Calcio,Sassuolo,1.35,0.45
+200,2013,Diogo Salomao,25,Sporting B,Dep. La Coruna,1.35,0.45
+201,2013,Yuya Osako,23,Kashima Antlers,1860 Munich,1.13,0.45
+202,2013,Riku Riski,24,Honefoss,Rosenborg BK,0.9,0.45
+203,2013,Liban Abdi,25,Coimbra,C. Rizespor,0.9,0.45
+204,2013,Francois Affolter,22,BSC Young Boys,FC Luzern,0.9,0.45
+205,2013,Fabrice Olinga,17,Malaga CF,Apol. Limassol,0.9,0.45
+206,2013,Laurentiu Iorga,25,Otelul Galati,Astra Giurgiu,0.81,0.45
+207,2013,Uros Vitas,21,Rad,KAA Gent,0.765,0.45
+208,2013,Jakob Orlov,27,Gefle,SK Brann,0.72,0.45
+209,2013,Onur Kaya,27,RSC Charleroi,KSC Lokeren,0.72,0.45
+210,2013,Gabriel Cichero,29,FC Nantes,FC Sion,0.675,0.45
+211,2013,Mana Dembele,25,Clermont Foot,Guingamp,0.675,0.45
+212,2013,Riyad Mahrez,22,AC Le Havre,Leicester,0.675,0.45
+213,2013,Matias Caruzzo,29,Boca Juniors,U. de Chile,0.63,0.45
+214,2013,Armando Sadiku,22,FC Lugano,FC Zurich,0.608,0.45
+215,2013,Alexandru Ionita,19,Rapid Bucharest,Astra Giurgiu,0.54,0.45
+216,2013,Krzysztof Maczynski,26,Gornik Zabrze,BJ Renhe,0.315,0.45
+217,2013,Piotr Parzyszek,20,De Graafschap,Charlton,0.27,0.45
+218,2013,Sebastian Stolze,19,Rot-Weiss Erfurt,Wolfsburg U19,0.113,0.45
+219,2013,Nashat Akram,29,Al-Shorta SC,DL Yifang,0,0.45
+220,2013,Valmir Berisha,17,Halmstad U19,Roma U19,0,0.45
+221,2013,Bruno Henrique,24,Londrina-PR,Corinthians,0.225,0.414
+222,2013,Orlando Sa,25,AEL Limassol,Legia Warszawa,0.9,0.405
+223,2013,Aleksey Nikitin,22,Enisey,Amkar Perm,0.27,0.405
+224,2013,Elnur Allahverdiev,30,Xazar Lankaran,FK Qabala,0.225,0.405
+225,2013,Pele,26,Ergotelis,Olympiacos,0.54,0.396
+226,2013,Maksim Bordachev,27,BATE Borisov,Tom Tomsk,1.35,0.392
+227,2013,Dong Wang,32,CC Yatai,CQ Dangdai Lif.,90,0.383
+228,2013,Rafael Costa,26,Figueirense FC,FC Seoul,0,0.383
+229,2013,Daniel Ayala,23,Norwich,Middlesbrough,0.45,0.378
+230,2013,Yang Liu,22,SD Luneng,WH Zall,23,0.378
+231,2013,Conor Doyle,22,Derby,D.C. United,45,0.369
+232,2013,Ji-nam Lee,29,Daegu FC,HN Jianye,0.293,0.365
+233,2013,Adil Rami,28,Valencia,AC Milan,7.2,0.36
+234,2013,Welliton,27,Spartak Moscow,Celta de Vigo,2.25,0.36
+235,2013,Ferebory Dore,25,Petr. Ploiesti,Botev Plovdiv,0.9,0.36
+236,2013,Ruben Kristiansen,26,Tromso,Valerenga,0.72,0.36
+237,2013,Mihret Topcagic,25,Wolfsberger AC,Schachtjor K.,0.54,0.36
+238,2013,Daisuke Matsui,32,Lechia Gdansk,Jubilo Iwata,0.45,0.36
+239,2013,Fernandao,26,Atletico-PR,Bursaspor,0.36,0.36
+240,2013,Munas Dabbur,21,M. Tel Aviv,Grasshoppers,0.315,0.36
+241,2013,Pedro Ramirez,21,Zamora,FC Sion,0,0.36
+242,2013,Isaac Success,18,BJ Found. Acad.,Udinese U19,0,0.36
+243,2013,Rafael Santos,29,Arsenal Kyiv,FK Qabala,0.54,0.345
+244,2013,Nouha Dicko,21,Wigan,Wolves,0.225,0.324
+245,2013,Joe Lolley,21,Kidderminster,Huddersfield,0,0.324
+246,2013,Pedro Morales,28,Malaga CF,Vancouver,1.8,0.315
+247,2013,Juan Cala,24,Sevilla FC,CardiffCity,0.9,0.315
+248,2013,Matias Iglesias,28,Atromitos Athen,CC Yatai,0.72,0.315
+249,2013,Diego Demme,22,SC Paderborn,RB Leipzig,0.675,0.315
+250,2014,Wilfried Bony,26,Swansea,ManCity,15.3,29.07
+251,2014,Andre Schurrle,24,Chelsea,VfL Wolfsburg,20.7,28.8
+252,2014,Juan Cuadrado,26,Fiorentina,Chelsea,28.8,27.9
+253,2014,Enzo Perez,28,Benfica,Valencia,20.7,22.5
+254,2014,Bernardo Silva,20,Benfica,Monaco,3.15,14.18
+255,2014,Everton Ribeiro,25,Cruzeiro,Al-Ahli (UAE),15.3,13.5
+256,2014,Ricardo Goulart,23,Cruzeiro,GZ Evergrande,9.9,13.5
+257,2014,Gabriel Paulista,24,Villarreal,Arsenal,7.2,13.5
+258,2014,Seydou Doumbia,27,CSKA Moscow,AS Roma,22.5,12.96
+259,2014,Ryan Bertrand,25,Chelsea,Southampton,5.4,12.01
+260,2014,Lucas Silva,21,Cruzeiro,Real Madrid,10.8,11.7
+261,2014,Manolo Gabbiadini,23,Sampdoria,SSC Napoli,10.8,11.25
+262,2014,Kevin Kampl,24,RB Salzburg,Bor. Dortmund,8.1,10.8
+263,2014,Alan,25,RB Salzburg,GZ Evergrande,3.6,9.99
+264,2014,Andrej Kramaric,23,HNK Rijeka,Leicester,4.05,8.1
+265,2014,Darwin Quintero,27,Santos Laguna,America,2.7,8.1
+266,2014,Joaquin Correa,20,Estudiantes,Sampdoria,7.2,7.56
+267,2014,Angel Correa,19,San Lorenzo,Atletico Madrid,4.5,6.75
+268,2014,Mapou Yanga-Mbiwa,25,Newcastle,AS Roma,5.4,6.62
+269,2014,Tin Jedvaj,19,AS Roma,Bay. Leverkusen,5.85,6.3
+270,2014,Omer Damari,25,Austria Vienna,RB Leipzig,2.25,6.3
+271,2014,Daley Sinkgraven,19,Heerenveen,AFC Ajax,1.35,6.3
+272,2014,Dele Alli,18,MK Dons,Tottenham,1.8,5.97
+273,2014,Kyle Naughton,26,Tottenham,Swansea,4.5,5.94
+274,2014,Dario Benedetto,24,Club Tijuana,America,1.62,5.94
+275,2014,Callum McManaman,23,Wigan,West Brom,2.7,5.72
+276,2014,Jordon Mutch,23,QPR,CrystalPalace Palace,5.4,5.71
+277,2014,Oussama Assaidi,26,Liverpool,Al-Ahli (UAE),4.5,5.4
+278,2014,Vitorino Antunes,27,Malaga CF,Dynamo Kyiv,2.7,5.4
+279,2014,Eric Bailly,20,Espanyol,Villarreal,0.9,5.13
+280,2014,Hai Yu,27,BJ Renhe,SIPG,0.54,5.04
+281,2014,Diego Tardelli,29,Atletico-MG,SD Luneng,3.15,4.95
+282,2014,Isaac Brizuela,24,Toluca,Chivas,1.8,4.95
+283,2014,Pape Souare,24,LOSC Lille,CrystalPalace Palace,3.15,4.8
+284,2014,Daniele Rugani,20,FC Empoli,Juventus,6.75,4.5
+285,2014,Sammir,27,Getafe,JS Suning,2.7,4.5
+286,2014,Cristian Penilla,23,Barcelona SC,CF Pachuca,1.35,4.46
+287,2014,Nicolas Lodeiro,25,Corinthians,Boca Juniors,1.8,4.43
+288,2014,Jannik Vestergaard,22,TSG Hoffenheim,Werder Bremen,2.7,4.05
+289,2014,Federico Bonazzoli,17,Inter,Sampdoria,2.25,4.05
+290,2014,Carles Gil,22,Valencia,AstonVilla,5.4,3.78
+291,2014,Ricardo Centurion,22,Racing Club,Sao Paulo,3.6,3.78
+292,2014,Dabao Yu,26,DL Yifang,BJ Sinobo Guoan,0.45,3.78
+293,2014,Agustin Marchesin,26,Lanus,Santos Laguna,2.25,3.74
+294,2014,Edwin Cardona,22,Atl. Nacional,Monterrey,0.81,3.74
+295,2014,Lucas Pratto,26,Velez Sarsfield,Atletico-MG,3.6,3.6
+296,2014,Jack Cork,25,Southampton,Swansea,3.15,3.6
+297,2014,Michel,26,Valencia,GZ R&F,2.25,3.6
+298,2014,Giorgian de Arrascaeta,20,Defensor,Cruzeiro,1.8,3.6
+299,2014,Gonzalo Martinez,21,Huracan,River Plate,0,3.6
+300,2014,Dame N'Doye,29,Loko Moscow,Hullcity,9,3.57
+301,2014,Wilfried Zaha,22,ManUtd,CrystalPalace Palace,7.2,3.45
+302,2014,Emil Forsberg,23,Malmo FF,RB Leipzig,0.63,3.33
+303,2014,Jermain Defoe,32,Toronto FC,Sunderland,5.4,3.15
+304,2014,Marcelo Cirino,22,Atletico-PR,Flamengo,2.25,3.15
+305,2014,Isaac Kiese Thelin,22,Malmo FF,G. Bordeaux,0.27,3.15
+306,2014,Rafael Sobis,29,Fluminense,Tigres UANL,2.7,2.97
+307,2014,Alexander Mejia,26,Atl. Nacional,Monterrey,0.765,2.97
+308,2014,Yimmi Chara,23,Deportes Tolima,Monterrey,0.225,2.97
+309,2014,Petar Skuletic,24,Partizan,Loko Moscow,3.42,2.88
+310,2014,Wenjie Song,24,QD Jonoon,HB CFFC,0.113,2.75
+311,2014,Fernando Torres,30,Chelsea,AC Milan,6.3,2.7
+312,2014,Marcelo Brozovic,22,Dinamo Zagreb,Inter,4.95,2.7
+313,2014,Alexander Scholz,22,KSC Lokeren,Standard Liege,3.6,2.7
+314,2014,Dario Conca,31,Fluminense,SIPG,3.15,2.7
+315,2014,Dudu,23,Dynamo Kyiv,Palmeiras,2.25,2.7
+316,2014,Dimitri Kevin Cavare,20,Lens,Stade Rennais,1.8,2.7
+317,2014,Stoppila Sunzu,25,FC Sochaux,SH Shenhua,1.8,2.7
+318,2014,Sofiane Boufal,21,SCO Angers,LOSC Lille,0.72,2.7
+319,2014,Octavio Rivero,22,O'Higgins,Vancouver,0.293,2.7
+320,2014,Hernani,23,Vit. Guimaraes,FC Porto,0.54,2.61
+321,2014,Martin Odegaard,16,Stromsgodset,RM Castilla,3.6,2.52
+322,2014,Jiaqi Zhang,23,DL Yifang,GZ Evergrande,0.27,2.52
+323,2014,Dianzuo Liu,24,SH Shenxin,GZ R&F,0.113,2.52
+324,2014,Zheng Zou,26,QD Jonoon,GZ Evergrande,0.113,2.52
+325,2014,Nicolas Tagliafico,22,CA Banfield,Independiente,0.9,2.5
+326,2014,Gino Peruzzi,22,Catania,Boca Juniors,3.6,2.48
+327,2014,Silvio Romero,26,Lanus,Chiapas FC,2.93,2.43
+328,2014,Adam Forshaw,23,Wigan,Middlesbrough,1.8,2.4
+329,2014,Hernan Barcos,30,Gremio,TJ Teda,3.6,2.39
+330,2014,Anselmo Ramon,26,Cruzeiro,ZJ Greentown,1.35,2.34
+331,2014,Benik Afobe,21,Arsenal U23,Wolves,0.27,2.34
+332,2014,Ke Shi,21,ZJ Greentown,SIPG,0.18,2.34
+333,2014,Michael Keane,22,ManUtd,Burnley,0.45,2.3
+334,2014,Gabriel Paletta,28,Parma,AC Milan,7.65,2.25
+335,2014,Victor Ibarbo,24,Cagliari Calcio,AS Roma,7.65,2.25
+336,2014,Romain Philippoteaux,26,Dijon,FC Lorient,1.35,2.25
+337,2014,Cristian Pellerano,32,Club Tijuana,America,1.26,2.25
+338,2014,Marco Djuricin,22,Sturm Graz,RB Salzburg,1.13,2.25
+339,2014,Emanuel Insua,23,Boca Juniors,Granada CF,1.08,2.25
+340,2014,Diego Gonzalez,26,Lanus,Santos Laguna,0.36,2.25
+341,2014,Carlos Salcedo,21,Salt Lake,Chivas,0,2.25
+342,2014,Marcelo Moreno,27,Gremio,CC Yatai,4.05,2.22
+343,2014,Claudiu Keseru,28,FCSB,Al Gharafa,3.6,2.16
+344,2014,Junior Dutra,26,KSC Lokeren,Al Arabi,1.62,2.16
+345,2014,Lu Zhang,27,HN Jianye,SH Shenhua,0.135,2.16
+346,2014,Oscar Romero,22,Cerro Porteno,Racing Club,0,2.16
+347,2014,Zheng Lu,29,SD Luneng,SH Shenhua,0.135,2.12
+348,2014,John Brayford,27,CardiffCity,Sheffield Utd.,1.35,2.07
+349,2014,Erkan Zengin,29,Eskisehirspor,Trabzonspor,4.05,2.03
+350,2014,Egidio,28,Cruzeiro,Dnipro,4.05,2.03
+351,2014,Vidar Orn Kjartansson,24,Valerenga,JS Suning,1.17,2.03
+352,2014,Krystian Bielik,17,Legia Warszawa,Arsenal,0,2.03
+353,2014,Matt Grimes,19,Exeter City,Swansea,0.225,2.02
+354,2014,Aytac Kara,21,Eskisehirspor,Trabzonspor,2.25,1.89
+355,2014,Fernando Guerrero,25,Independiente,Leones Negros,1.53,1.85
+356,2014,Paul-Jose Mpoku,22,Standard Liege,Cagliari Calcio,4.5,1.8
+357,2014,Ivica Olic,35,VfL Wolfsburg,Hamburger SV,1.8,1.8
+358,2014,Jaja,28,Metalist,CQ Dangdai Lif.,1.8,1.8
+359,2014,Jean Evrard Kouassi,20,Hajduk Split,SIPG,1.8,1.8
+360,2014,Marcelo Diaz,28,FC Basel,Hamburger SV,1.8,1.8
+361,2014,Jonathan Rodriguez,21,Penarol,Benfica,1.62,1.8
+362,2014,Miroslav Radovic,31,Legia Warszawa,HB CFFC,1.53,1.8
+363,2014,Dong-won Ji,23,Bor. Dortmund,FC Augsburg,1.35,1.8
+364,2014,David Accam,24,Helsingborg,Chicago Fire,1.35,1.8
+365,2014,Sergio Ariel Escudero,26,FC Seoul,JS Suning,1.26,1.8
+366,2014,Ju-young Kim,26,FC Seoul,SIPG,0.675,1.8
+367,2014,Lucas Albertengo,23,Rafaela,Independiente,0.63,1.8
+368,2014,Nemanja Maksimovic,20,NK Domzale,FC Astana,0.45,1.8
+369,2014,Leonardo Suarez,18,Boca Juniors,Villarreal CF B,0,1.8
+370,2014,John Antwi,22,Ismaily,Shabab,1.08,1.76
+371,2014,Jianbin Li,25,Evergrande Res.,SH Shenhua,45,1.76
+372,2014,Doneil Henry,21,Apol. Limassol,West Ham,0.135,1.71
+373,2014,Xiaofeng Geng,27,SD Luneng,SH Shenhua,0.113,1.67
+374,2014,Rever,30,Atletico-MG,Internacional,4.05,1.64
+375,2014,Osvaldo,27,Sao Paulo,Ahli,3.6,1.62
+376,2014,Juan Carlos Valenzuela,30,America,Atlas,1.62,1.62
+377,2014,Thiago Mendes,22,Goias EC,Sao Paulo,0.81,1.62
+378,2014,Kevin Mendez,19,Penarol,AS Roma,0.36,1.62
+379,2014,Juan Anangono,25,Chicago Fire,Leones Negros,1.62,1.58
+380,2014,Matias Alustiza,30,CF Pachuca,Puebla FC,1.62,1.58
+381,2014,Cristian Bunino,18,Pro Vercelli,Juventus U19,68,1.58
+382,2014,Willians,29,Internacional,Cruzeiro,2.7,1.53
+383,2014,Jose Luis Fernandez,27,Godoy Cruz,CA Rosario,1.17,1.53
+384,2014,Magnus Eriksson,24,Malmo FF,BJ Renhe,0.9,1.53
+385,2014,Peng Lu,25,DL Yifang,BJ Enterprises,0.158,1.53
+386,2014,Gabriel Hauche,28,Racing Club,Club Tijuana,1.35,1.49
+387,2014,Zijie Chen,25,BJ Renhe,HN Billows,0.18,1.49
+388,2014,Kuca,25,Estoril,Karabukspor,0.27,1.46
+389,2014,Jordan,24,Litex Lovetch,TJ Teda,1.35,1.44
+390,2014,Fernando Monetti,25,Gimnasia,Lanus,0.9,1.38
+391,2014,Duje Cop,24,Dinamo Zagreb,Cagliari Calcio,3.6,1.35
+392,2014,Nicolas Spolli,31,Catania,AS Roma,3.15,1.35
+393,2014,Koen Casteels,22,TSG Hoffenheim,VfL Wolfsburg,2.25,1.35
+394,2014,Roque Santa Cruz,33,Malaga CF,CD Cruz Azul,1.8,1.35
+395,2014,Moussa Maazou,26,Maritimo,CC Yatai,1.8,1.35
+396,2014,Jaime Ayovi,26,Club Tijuana,Godoy Cruz,1.44,1.35
+397,2014,Wilson Matias,31,Tiburones Rojos,Chiapas FC,1.35,1.35
+398,2014,Mats Moller Daehli,19,CardiffCity,SC Freiburg,1.35,1.35
+399,2014,Idrissa Sylla,24,Zulte Waregem,RSC Anderlecht,1.35,1.35
+400,2014,Franco Jara,26,Benfica,Olympiacos,1.13,1.35
+401,2014,Juan Pablo Rodriguez,35,Santos Laguna,Atlas,1.08,1.35
+402,2014,Franco Acosta,18,CA Fenix,Villarreal CF B,0.9,1.35
+403,2014,Xizhe Zhang,23,BJ Sinobo Guoan,VfL Wolfsburg,0.765,1.35
+404,2014,Gustavo Toledo,25,CA Banfield,Independiente,0.765,1.35
+405,2014,Eddi Gomes,26,Esbjerg fB,HN Jianye,0.45,1.35
+406,2014,Adama Traore,24,Vit. Guimaraes,FC Basel,0.45,1.35
+407,2014,Leandro Pereira,23,Cianorte,Palmeiras,0.27,1.35
+408,2014,Luca Castiglia,25,Juventus,Pro Vercelli,0.18,1.35
+409,2014,Francesco Cassata,17,Empoli U19,Juventus U19,68,1.35
+410,2014,Camilo Mayada,24,Danubio FC,River Plate,1.13,1.26
+411,2014,Fabiano,23,Chapecoense,Cruzeiro,0.36,1.26
+412,2014,Zhuoxiang Deng,26,JS Suning,SH Shenhua,0.158,1.26
+413,2014,Pengxiang Jin,25,DL Yifang,BJ Sinobo Guoan,0.158,1.26
+414,2014,Tony Andreu,26,Hamilton Acad.,Norwich,0.315,1.2
+415,2014,Suso,21,Liverpool,AC Milan,5.4,1.17
+416,2014,Veroljub Salatic,29,Grasshoppers,FC Sion,1.35,1.17
+417,2014,Theo Bongonda,19,Zulte Waregem,Celta de Vigo,1.35,1.17
+418,2014,Diego Rodriguez,25,Godoy Cruz,Independiente,0.9,1.17
+419,2014,Simon Tibbling,20,Djurgarden,FC Groningen,0.72,1.17
+420,2014,Ludwig Augustinsson,20,IFK Goteborg,FC Copenhagen,0.63,1.17
+421,2014,Yang Yu,25,BJ Sinobo Guoan,GZ R&F,0.135,1.17
+422,2014,Lewis MacLeod,20,Rangers,Brentford,0.315,1.15
+423,2014,Nilton,27,Cruzeiro,Internacional,4.5,1.13
+424,2014,Vitinho,21,CSKA Moscow,Internacional,2.7,1.08
+425,2014,Fakhreddine Ben Youssef,23,CS Sfaxien,FC Metz,0.855,1.08
+426,2014,Daniel Chima Chukwu,23,Molde FK,SH Shenxin,0.72,1.08
+427,2014,Miguel Samudio,28,Libertad,America,0.45,1.08
+428,2014,Laurentiu Branescu,20,Virtus Lanciano,Juventus,0.27,1.08
+429,2014,Elio De Silvestro,21,Juventus,Virtus Lanciano,0.248,1.08
+430,2014,Jason Steele,24,Middlesbrough,Blackburn,0.9,1.01
+431,2014,Honglue Zhao,25,DL Yifang,TJ Teda,0.203,1.01
+432,2014,Yangyang Jin,21,DL Yifang,GZ R&F,45,0.99
+433,2014,Stuart O'Keefe,23,CrystalPalace Palace,CardiffCity,0.9,0.963
+434,2014,Marko Devic,31,Rubin Kazan,Al Rayyan,6.75,0.9
+435,2014,Artem Dzyuba,26,Spartak Moscow,Rostov,6.75,0.9
+436,2014,Alvaro Pereira,29,Inter,Estudiantes,5.4,0.9
+437,2014,Joel Campbell,22,Arsenal,Villarreal,5.4,0.9
+438,2014,Josef Husbauer,24,Sparta Praha,Cagliari Calcio,2.7,0.9
+439,2014,Erton Fejzullahu,26,Djurgarden,BJ Sinobo Guoan,1.8,0.9
+440,2014,Matteo Mancosu,30,Trapani,Bologna,1.62,0.9
+441,2014,Franco Mussis,22,FC Copenhagen,San Lorenzo,1.35,0.9
+442,2014,Marco Capuano,23,Pescara,Cagliari Calcio,1.08,0.9
+443,2014,Alexander Milosevic,22,AIK,Besiktas,0.9,0.9
+444,2014,Martin Pusic,27,Esbjerg fB,FC Midtjylland,0.72,0.9
+445,2014,Javier Patino,26,Buriram Utd.,HN Jianye,0.45,0.9
+446,2014,Eoin Doyle,26,Chesterfield FC,CardiffCity,0.315,0.9
+447,2014,Kristoffer Olsson,19,Arsenal,FC Midtjylland,90,0.9
+448,2014,Jan Mlakar,16,NK Domzale U19,Fiorentina Yth.,0,0.9
+449,2014,Duvier Riascos,28,Morelia,Cruzeiro,1.62,0.891
+450,2014,Didier Ndong,20,CS Sfaxien,FC Lorient,0.45,0.855
+451,2014,Para,19,EC Bahia,Cruzeiro,90,0.833
+452,2014,Boyu Yang,25,DL Yifang,SIPG,45,0.824
+453,2014,Francesco Mestre,18,Juventus U19,Empoli U19,45,0.81
+454,2014,Nicolas Aguirre,24,Arsenal FC,Lanus,1.62,0.788
+455,2014,Jonathan Cafu,23,Ponte Preta,Sao Paulo,0.63,0.765
+456,2014,Leonardo Gil,23,Olimpo,Estudiantes,0.45,0.765
+457,2014,Walter Kannemann,23,San Lorenzo,Atlas,1.35,0.738
+458,2014,Robinho,27,Coritiba FC,Palmeiras,0.9,0.738
+459,2014,Imoh Ezekiel,21,Al Arabi,Standard Liege,4.5,0.734
+460,2014,Mario Felgueiras,28,CFR Cluj,Konyaspor,2.7,0.72
+461,2014,Daniele Gastaldello,31,Sampdoria,Bologna,2.7,0.72
+462,2014,Mario Rondon,28,Nacional,SJZ Ever Bright,2.7,0.72
+463,2014,Stanislav Manolev,29,Dinamo Moscow,Kuban Krasnodar,1.8,0.72
+464,2014,Sergiu Bus,22,CSKA Sofia,Sheff Wed,1.35,0.72
+465,2014,Takumi Minamino,19,Cerezo Osaka,RB Salzburg,1.13,0.72
+466,2014,Dani Quintana,27,Ahli,Qarabag Agdam,0.9,0.72
+467,2014,Leo Itaperuna,25,FC Sion,Suwon Bluewings,0.765,0.72
+468,2014,Michal Maslowski,25,Zawisza,Legia Warszawa,0.72,0.72
+469,2014,In-hwan Jeong,28,Jeonbuk Motors,HN Jianye,0.72,0.72
+470,2014,Lorenzo Del Prete,29,Perugia,Catania,0.72,0.72
+471,2014,Tiago Volpi,24,Figueirense FC,Queretaro FC,0.45,0.72
+472,2014,Patrizio Stronati,20,Banik Ostrava,Austria Vienna,0.36,0.72
+473,2014,Alhaji Kamara,20,Norrkoping,Johor DT,0.225,0.72
+474,2014,Elbio Álvarez,20,Penarol,Benfica B,0.113,0.72
+475,2014,Brian Fernandez,20,Defensa,Racing Club II,0,0.72
+476,2014,Ermir Lenjani,25,FC St. Gallen,Stade Rennais,1.35,0.675
+477,2014,Anders Christiansen,24,Nordsjaelland,Chievo Verona,0.81,0.675
+478,2014,Solvi Ottesen,31,Ural,JS Suning,0.72,0.675
+479,2014,Rolando,29,FC Porto,RSC Anderlecht,6.3,0.63
+480,2014,Clement Chantome,27,Paris SG,G. Bordeaux,3.6,0.63
+481,2014,Gil Vermouth,29,Hapoel Tel Aviv,M. Tel Aviv,1.13,0.63
+482,2014,Jakob Ankersen,24,Esbjerg fB,IFK Goteborg,1.13,0.63
+483,2014,Stephane Badji,25,SK Brann,Basaksehir,0.81,0.63
+484,2014,Filipe Melo,25,Moreirense ,Sheff Wed,0.72,0.63
+485,2014,Marcello Trotta,22,Fulham,Avellino,0.675,0.63
+486,2014,Franck Boli,21,Stabaek IF,Liaoning FC,0.63,0.63
+487,2014,Yan Wu,26,WH Zall,HN Jianye,90,0.63
+488,2014,Santiago Naguel,22,Argentinos,Racing Club,0.45,0.594
+489,2014,Moses Simon,19,AS Trencin,KAA Gent,0.54,0.585
+490,2014,Lei Li,22,HN Jianye,BJ Sinobo Guoan,68,0.585
+491,2014,Washington Camacho,28,Defensa,Racing Club,0.63,0.558
+492,2014,Lukas Podolski,29,Arsenal,Inter,18,0.54
+493,2014,Geoffroy Serey Die,30,FC Basel,VfB Stuttgart,2.7,0.54
+494,2014,Lukasz Szukala,30,FCSB,Ittihad,2.43,0.54
+495,2014,Raul Albentosa,26,SD Eibar,Derby,1.8,0.54
+496,2014,Nenad Milijas,31,Manisaspor,HB CFFC,0.99,0.54
+497,2014,Riccardo Maniero,27,Pescara,Catania,0.72,0.54
+498,2014,Jakub Hromada,18,Juventus U19,Sampdoria U19,90,0.54
+499,2014,Luigi Rizzo,17,Juventus U19,Vicenza U19,68,0.54
+500,2015,Alex Teixeira,26,Shakhtar D.,JS Suning,27,45
+501,2015,Jackson Martinez,29,Atletico Madrid,GZ Evergrande,27,37.8
+502,2015,Ramires,28,Chelsea,JS Suning,22.5,25.2
+503,2015,Giannelli Imbula,23,FC Porto,Stoke,14.4,21.83
+504,2015,Elkeson,26,GZ Evergrande,SIPG,4.05,16.65
+505,2015,Gervinho,28,AS Roma,HB CFFC,13.5,16.2
+506,2015,Oumar Niasse,25,Loko Moscow,Everton,9,16.11
+507,2015,Jonjo Shelvey,23,Swansea,Newcastle,10.8,14.4
+508,2015,Andros Townsend,24,Tottenham,Newcastle,7.2,14.13
+509,2015,Benik Afobe,22,Wolves,Bournemouth,6.3,11.97
+510,2015,Fredy Guarin,29,Inter,SH Shenhua,9.45,11.7
+511,2015,Mohamed Elneny,23,FC Basel,Arsenal,3.6,11.25
+512,2015,Jordan Rhodes,26,Blackburn,Middlesbrough,9,10.71
+513,2015,Wahbi Khazri,24,G. Bordeaux,Sunderland,6.75,10.62
+514,2015,Ciro Immobile,25,Bor. Dortmund,Sevilla FC,9,9.9
+515,2015,Jonathan Calleri,22,Boca Juniors,Maldonado,6.75,9.9
+516,2015,Steven Naismith,29,Everton,Norwich,4.5,9.9
+517,2015,Jemerson,23,Atletico-MG,Monaco,4.5,9.9
+518,2015,Geuvanio,23,Santos FC,TJ Quanjian,4.05,9.9
+519,2015,Timm Klose,27,VfL Wolfsburg,Norwich,2.7,9.9
+520,2015,Yangyang Jin,23,GZ R&F,HB CFFC,0.158,9.74
+521,2015,Abdoulaye Doucoure,23,Stade Rennais,Watford,5.4,9.54
+522,2015,Adalberto Penaranda,18,Udinese Calcio,Watford,0.45,9.54
+523,2015,Jinhao Bi,25,HN Jianye,SH Shenhua,0.225,8.98
+524,2015,Lu Zhang,28,Liaoning FC,TJ Quanjian,90,8.82
+525,2015,Lewis Grabban,28,Norwich,Bournemouth,2.7,8.42
+526,2015,Ke Sun,26,JS Suning,TJ Quanjian,0.743,8.28
+527,2015,Alberto Paloschi,26,Chievo Verona,Swansea,5.4,7.92
+528,2015,Khamis Esmaeel,26,Al-Jazira,Al-Ahli (UAE),90,7.83
+529,2015,Gil,28,Corinthians,SD Luneng,6.75,7.65
+530,2015,Nordin Amrabat,28,Malaga CF,Watford,5.4,7.56
+531,2015,Renato Augusto,27,Corinthians,BJ Sinobo Guoan,8.1,7.2
+532,2015,Burak Yilmaz,30,Galatasaray,BJ Sinobo Guoan,6.3,7.2
+533,2015,Jonas Hofmann,23,Bor. Dortmund,Bor. M'gladbach,3.6,7.2
+534,2015,Alberto Grassi,20,Atalanta,SSC Napoli,1.8,7.2
+535,2015,Rolando Mandragora,18,Genoa,Juventus,1.8,7.2
+536,2015,Carlos Pena,25,Leon,Chivas,2.7,6.57
+537,2015,Haifeng Ding,24,Liaoning FC,HB CFFC,0.203,6.39
+538,2015,Chao Gu,26,ZJ Greentown,JS Suning,0.113,6.35
+539,2015,Iago Falque,26,Genoa,AS Roma,7.2,6.3
+540,2015,Ersan Gulum,28,Besiktas,HB CFFC,4.5,6.3
+541,2015,Marko Grujic,19,Red Star,Liverpool,2.7,6.3
+542,2015,Jiawei Yang,24,SH Shenxin,JS Suning,0.135,6.08
+543,2015,Dianzuo Liu,25,GZ R&F,GZ Evergrande,0.18,6.03
+544,2015,Daniel Amartey,21,FC Copenhagen,Leicester,2.7,5.94
+545,2015,Luka Jovic,18,Apol. Limassol,Benfica,1.58,5.94
+546,2015,Lamine Kone,27,FC Lorient,Sunderland,2.25,5.85
+547,2015,Xuesheng Dong,26,GZ Evergrande,HB CFFC,0.113,5.85
+548,2015,Ning Jiang,29,GZ R&F,HB CFFC,0.18,5.63
+549,2015,Stephane Mbia,29,Trabzonspor,HB CFFC,5.63,5.4
+550,2015,Henri Saivet,25,G. Bordeaux,Newcastle,2.25,5.4
+551,2015,Milan Skriniar,20,MSK Zilina,Sampdoria,0.54,5.4
+552,2015,Ezequiel Lavezzi,30,Paris SG,HB CFFC,8.1,4.95
+553,2015,Orbelin Pineda,19,Queretaro FC,Chivas,1.62,4.95
+554,2015,Kee-hee Kim,26,Jeonbuk Motors,SH Shenhua,0.675,4.86
+555,2015,Mario Suarez,28,Fiorentina,Watford,7.2,4.77
+556,2015,Charlie Austin,26,QPR,Southampton,11.7,4.68
+557,2015,Demarai Gray,19,Birmingham,Leicester,3.6,4.59
+558,2015,Fredy Montero,28,Sporting CP,TJ Teda,9.9,4.5
+559,2015,Malcom,18,Corinthians,G. Bordeaux,9,4.5
+560,2015,Jadson,32,Corinthians,TJ Quanjian,6.3,4.5
+561,2015,Gael Kakuta,24,Sevilla FC,HB CFFC,5.4,4.5
+562,2015,Claudio Beauvue,27,Olympique Lyon,Celta de Vigo,4.5,4.5
+563,2015,Maxi Moralez,28,Atalanta,Leon,4.5,4.5
+564,2015,Lucas Zelarayan,23,Belgrano,Tigres UANL,3.6,4.5
+565,2015,Stefano Sensi,20,RC Cesena,Sassuolo,3.15,4.5
+566,2015,Alessandro Schopf,21,1.FC Nuremberg,FC Schalke 04,1.35,4.5
+567,2015,Ezekiel Henty,22,NK Olimpija,Loko Moscow,0.225,4.5
+568,2015,Sam Byram,22,Leeds,West Ham,3.15,4.32
+569,2015,Matt Miazga,20,NY Red Bulls,Chelsea,0.135,4.14
+570,2015,Lorenzo Melgarejo,25,Kuban Krasnodar,Spartak Moscow,6.3,4.05
+571,2015,Miler Bolanos,25,CS Emelec,Gremio,3.15,4.05
+572,2015,Bruno Henrique,25,Goias EC,VfL Wolfsburg,1.8,4.05
+573,2015,Xin Xu,21,Atl. Madrid B,GZ Evergrande,0.135,3.87
+574,2015,Xuri Zhao,30,GZ Evergrande,TJ Quanjian,0.18,3.78
+575,2015,Pengfei Xie,22,ZJ Greentown,JS Suning,0.158,3.66
+576,2015,Augusto Fernandez,29,Celta de Vigo,Atletico Madrid,5.4,3.6
+577,2015,Samir,21,Flamengo,Udinese Calcio,4.05,3.6
+578,2015,Shani Tarashaj,20,Grasshoppers,Everton,2.25,3.6
+579,2015,James Tarkowski,23,Brentford,Burnley,0.315,3.6
+580,2015,Pengfei Han,22,Mafra,GZ Evergrande,23,3.6
+581,2015,Gary Hooper,28,Norwich,Sheff Wed,3.6,3.51
+582,2015,Joe Mason,24,CardiffCity,Wolves,1.35,3.51
+583,2015,Douglas,28,Tokushima Vort.,Al-Ain FC,0.54,3.51
+584,2015,Moussa Marega,24,Maritimo,FC Porto,0.99,3.42
+585,2015,Andraz Sporar,21,NK Olimpija,FC Basel,0.9,3.42
+586,2015,Bruninho,26,Nordsjaelland,GZ R&F,0.36,3.38
+587,2015,Marco Fabian,26,Chivas,E. Frankfurt,4.5,3.33
+588,2015,Ivo Pinto,26,Dinamo Zagreb,Norwich,3.6,3.33
+589,2015,Anthony Knockaert,24,Standard Liege,BrightonAlbion,2.25,3.15
+590,2015,Joffre Guerron,30,Tigres UANL,CD Cruz Azul,1.62,3.15
+591,2015,Luca Mazzitelli,20,AS Roma,Sassuolo,0.9,3.15
+592,2015,Andres Schetino,21,CA Fenix,Fiorentina,0.495,3.15
+593,2015,Giovanni Augusto,26,Atletico-MG,Corinthians,4.05,3.1
+594,2015,Matt Jarvis,29,West Ham,Norwich,2.7,3.06
+595,2015,Nick Blackman,26,Reading,Derby,1.08,3.06
+596,2015,Denys Boiko,28,Dnipro,Besiktas,4.95,2.97
+597,2015,Conor Washington,23,Peterborough,QPR,0.675,2.97
+598,2015,Felipe,26,Coimbra-MG,Corinthians,4.5,2.93
+599,2015,Mauricio Cuero,22,CD La Equidad,Levante,3.15,2.88
+600,2015,Ole Selnaes,21,Rosenborg BK,Saint-Etienne,1.62,2.88
+601,2015,Ezequiel Cerutti,24,Estudiantes,San Lorenzo,1.35,2.88
+602,2015,Ismail H'Maidat,20,Brescia,AS Roma,0.45,2.84
+603,2015,Clayton,20,Figueirense FC,Atletico-MG,4.5,2.7
+604,2015,Erik,21,Goias EC,Palmeiras,3.15,2.7
+605,2015,Ryder Matos,22,Fiorentina,Udinese Calcio,3.15,2.7
+606,2015,Andrija Balic,18,Hajduk Split,Udinese Calcio,3.15,2.7
+607,2015,Jeffrey Gouweleeuw,24,AZ Alkmaar,FC Augsburg,2.7,2.7
+608,2015,Ivan Saponjic,18,Partizan,Benfica B,1.17,2.7
+609,2015,Mauro Arambarri,20,Defensor,G. Bordeaux,1.13,2.7
+610,2015,Marco Ruben,29,Dynamo Kyiv,CA Rosario,3.24,2.61
+611,2015,Yi Liu,27,ZJ Yiteng,BJ Enterprises,68,2.57
+612,2015,Marcello Trotta,23,Avellino,Sassuolo,1.8,2.52
+613,2015,Brian Lozano,21,Defensor,America,1.17,2.52
+614,2015,Krisztian Nemeth,27,Kansas,Al Gharafa,0.54,2.52
+615,2015,Stephane Badji,26,Basaksehir,RSC Anderlecht,2.25,2.49
+616,2015,Federico Mancuello,26,Independiente,Flamengo,6.75,2.48
+617,2015,Muhammet Demir,24,Gaziantepspor,Trabzonspor,4.5,2.48
+618,2015,Yunqiu Li,25,BJ Sinobo Guoan,SH Shenhua,0.225,2.48
+619,2015,Shkelzen Gashi,27,FC Basel,Colorado,3.15,2.43
+620,2015,Obafemi Martins,31,"Sounders FC	",SH Shenhua,2.25,2.43
+621,2015,James Maddison,19,Coventry,Norwich,0.45,2.39
+622,2015,Julien de Sart,21,Standard Liege,Middlesbrough,2.25,2.34
+623,2015,Zhizhao Chen,27,BJ Sinobo Guoan,GZ R&F,0.338,2.3
+624,2015,Serdar Tasci,28,Spartak Moscow,Bayern Munich ,4.5,2.25
+625,2015,Nikolaos Karelis,23,Panathinaikos,KRC Genk,3.38,2.25
+626,2015,Ryan Donk,29,Kasimpasa,Galatasaray,3.15,2.25
+627,2015,Dario Lezcano,25,FC Luzern,FC Ingolstadt,2.7,2.25
+628,2015,Milos Kosanovic,25,KV Mechelen,Standard Liege,2.25,2.25
+629,2015,Álvaro Pereira,30,Inter,Estudiantes,1.8,2.25
+630,2015,Erik Sviatchenko,24,FC Midtjylland,Celtic,1.8,2.25
+631,2015,Sambou Yatabare,26,Olympiacos,Werder Bremen,1.35,2.25
+632,2015,Danilo Moreno Asprilla,26,Litex Lovetch,Al-Ain FC,1.35,2.25
+633,2015,Oussama Tannane,21,Heracles Almelo,Saint-Etienne,1.13,2.25
+634,2015,Emil Berggreen,22,E. Braunschweig,1.FSV Mainz 05,1.08,2.25
+635,2015,Federico Ricca,21,Danubio FC,Malaga CF,1.08,2.25
+636,2015,Apostolos Giannou,26,Asteras Tripoli,GZ R&F,0.9,2.25
+637,2015,Andres Ibarguen,23,Deportes Tolima,Atl. Nacional,0,2.25
+638,2015,Richarlison,18,America-MG,Fluminense,0.63,2.14
+639,2015,Norbert Balogh,19,Debrecen,US Palermo,0.27,1.98
+640,2015,Kevin Grosskreutz,27,Galatasaray,VfB Stuttgart,4.05,1.95
+641,2015,Zhenli Liu,30,QD Jonoon,SD Luneng,90,1.92
+642,2015,Vaclav Kadlec,23,E. Frankfurt,FC Midtjylland,2.7,1.89
+643,2015,Mauro Zarate,28,West Ham,Fiorentina,2.7,1.89
+644,2015,Alejandro Grimaldo,20,FC Barcelona B,Benfica,1.8,1.89
+645,2015,Zhichao Li,27,HN Jianye,JS Suning,0.158,1.87
+646,2015,Hang Li,26,WH Zall,HB CFFC,68,1.87
+647,2015,Eder,29,Sampdoria,Inter,13.5,1.8
+648,2015,Aleksandr Kokorin,24,Dinamo Moscow,Zenit S-Pb,7.2,1.8
+649,2015,Ralf,31,Corinthians,BJ Sinobo Guoan,3.15,1.8
+650,2015,Victor Vazquez,28,Club Brugge,CD Cruz Azul,3.15,1.8
+651,2015,Kike,26,Middlesbrough,SD Eibar,2.7,1.8
+652,2015,Fedor Kudryashov,28,Akhmat Grozny,Rostov,2.25,1.8
+653,2015,Jo,28,Al-Shabab,JS Suning,2.25,1.8
+654,2015,Guillaume Gillet,31,RSC Anderlecht,FC Nantes,1.8,1.8
+655,2015,Petar Stojanovic,20,NK Maribor,Dinamo Zagreb,1.8,1.8
+656,2015,Henrique,29,SSC Napoli,Fluminense,1.8,1.8
+657,2015,Yoric Ravet,26,Grasshoppers,BSC Young Boys,1.8,1.8
+658,2015,Ignacio Fernandez,26,Gimnasia,River Plate,1.8,1.8
+659,2015,Martin Linnes,24,Molde FK,Galatasaray,1.62,1.8
+660,2015,Luka Jovic,18,Red Star,Apol. Limassol,1.58,1.8
+661,2015,Alexander Soderlund,28,Rosenborg BK,Saint-Etienne,1.35,1.8
+662,2015,Iver Fossum,19,Stromsgodset,Hannover 96,1.17,1.8
+663,2015,Assani Lukimya,30,Werder Bremen,Liaoning FC,1.13,1.8
+664,2015,Leke James,23,Aalesund,BJ Enterprises,1.08,1.8
+665,2015,Diego Fabbrini,25,Watford,Birmingham,0.9,1.8
+666,2015,Vukasin Jovanovic,19,Red Star,Zenit S-Pb,0.9,1.8
+667,2015,Bit-garam Yun,25,Jeju Utd.,YB Funde,0.608,1.8
+668,2015,Juninho,26,LA Galaxy,Club Tijuana,0.54,1.8
+669,2015,Arber Zeneli,20,Elfsborg,Heerenveen,0.9,1.76
+670,2015,Osman Sow,25,Heart of Midl.,HN Jianye,0.54,1.73
+671,2015,Mbaye Diagne,24,Újpest FC,TJ Teda,0.72,1.71
+672,2015,Marcelo Diaz,29,Hamburger SV,Celta de Vigo,2.25,1.62
+673,2015,Kayke,27,Flamengo,Yokohama F. M.,1.35,1.62
+674,2015,Gustavo Cuellar,23,Deportivo Cali,Flamengo,0.54,1.62
+675,2015,Jimmy Cabot,21,Troyes,FC Lorient,0.45,1.62
+676,2015,Michele Somma,20,AS Roma,Brescia,0.36,1.62
+677,2015,Abdoul Camara,25,SCO Angers,Derby,1.13,1.53
+678,2015,Jiri Skalak,23,Mlada Boleslav,BrightonAlbion,0.9,1.53
+679,2015,Zhongguo Chi,26,SH Shenxin,YB Funde,0.113,1.53
+680,2015,Gustav Wikheim,22,Stromsgodset,KAA Gent,0.99,1.44
+681,2015,Maicon,30,Sao Paulo,Gremio,2.7,1.43
+682,2015,Emiliano Rigoni,22,Belgrano,Independiente,3.15,1.4
+683,2015,Leandro Fernandez,24,Godoy Cruz,Independiente,2.52,1.4
+684,2015,Vagner Love,31,Corinthians,Monaco,4.05,1.35
+685,2015,Pablo Batalla,32,BJ Sinobo Guoan,Bursaspor,3.15,1.35
+686,2015,Constantin Budescu,26,Astra Giurgiu,DL Yifang,2.7,1.35
+687,2015,Vitor Hugo,24,Tombense,Palmeiras,2.7,1.35
+688,2015,Hyun-jun Suk,24,Vitoria Setubal,FC Porto,2.48,1.35
+689,2015,Vasco Regini,25,Sampdoria,SSC Napoli,2.43,1.35
+690,2015,Carlos Gruezo,20,VfB Stuttgart,"FC Dallas	",1.8,1.35
+691,2015,Renato Tapia,20,FC Twente,Feyenoord,1.8,1.35
+692,2015,Remo Freuler,23,FC Luzern,Atalanta,1.8,1.35
+693,2015,Filip Mladenovic,24,BATE Borisov,1. FC Koln,1.62,1.35
+694,2015,David Pavelka,24,Slovan Liberec,Kasimpasa,1.35,1.35
+695,2015,Edmilson Junior,21,Sint-Truiden,Standard Liege,1.08,1.35
+696,2015,Erik Johansson,27,KAA Gent,FC Copenhagen,0.99,1.35
+697,2015,Marius Wolf,20,1860 Munich,Hannover 96,0.72,1.35
+698,2015,Joaquin Arzura,22,Tigre,River Plate,0.63,1.35
+699,2015,Seung-dae Kim,24,Pohang Steelers,YB Funde,0.45,1.35
+700,2015,Rogerio,18,Inter U20,Sassuolo U19,0,1.35
+701,2015,Fabian Balbuena,24,Libertad,Corinthians,0,1.28
+702,2015,Stephan El Shaarawy,23,AC Milan,AS Roma,12.6,1.26
+703,2015,Dame N'Doye,30,Trabzonspor,Sunderland,4.95,1.26
+704,2015,Sergio Vittor,26,CA Banfield,Racing Club,1.13,1.25
+705,2015,Frank Fabra,24,Indep. Medellin,Boca Juniors,0.225,1.25
+706,2015,Ricardinho,29,Ceara SC,Al-Ettifaq,1.08,1.23
+707,2015,Biro Biro,21,Fluminense,SH Shenxin,3.15,1.17
+708,2015,Aras Ozbiliz,25,Spartak Moscow,Besiktas,2.25,1.17
+709,2015,Juan Martin Lucero,24,Independiente,Johor DT,2.16,1.17
+710,2015,Guilherme,27,Antalyaspor,Corinthians,2.03,1.17
+711,2015,Mathieu Dossevi,27,Olympiacos,Standard Liege,1.8,1.17
+712,2015,Fernandinho,22,Estoril,CQ Dangdai Lif.,0.54,1.13
+713,2015,Shuai Li,33,GZ Evergrande,SH Shenhua,90,1.13
+714,2015,Juan Iturbe,22,AS Roma,Bournemouth,13.5,1.08
+715,2015,Josip Drmic,23,Bor. M'gladbach,Hamburger SV,7.2,1.08
+716,2015,Ervin Zukanovic,28,Sampdoria,AS Roma,3.6,1.08
+717,2015,Renato Steffen,24,BSC Young Boys,FC Basel,2.93,1.08
+718,2015,Juan Cazares,23,Independiente,Atletico-MG,2.48,1.08
+719,2015,Jose Sa,23,Maritimo,FC Porto B,1.44,1.08
+720,2015,Fabian Monzon,28,Catania,U. de Chile,1.35,1.08
+721,2015,Aboubakar Oumarou,29,Partizan,SZ FC,1.13,1.08
+722,2015,Gaspar Iniguez,21,Granada CF,Udinese Calcio,1.08,1.08
+723,2015,Filippo Falco,23,Lecce,Bologna,0.81,1.08
+724,2015,Riccardo Fiamozzi,22,Pescara,Genoa,0.405,1.08
+725,2015,Emanuele Ndoj,19,Roma U19,Brescia,68,1.08
+726,2015,Óscar Duarte,26,Club Brugge,Espanyol,3.6,1.04
+727,2015,Woo-young Jung,26,Vissel Kobe,CQ Dangdai Lif.,0.72,1.04
+728,2015,Xin Bu,28,ZJ Yiteng,BJ Enterprises,0.135,1.04
+729,2015,Nikica Jelavic,30,West Ham,BJ Renhe,3.6,1
+730,2015,Junjie Hou,22,SH Shenxin,GZ R&F,23,0.999
+731,2015,Alexis,30,Getafe,Besiktas,1.8,0.99
+732,2015,Emil Bergstrom,22,Djurgarden,Rubin Kazan,1.26,0.99
+733,2015,Peter Olayinka,20,KF Skenderbeu,KAA Gent,0.653,0.99
+734,2015,Seydou Doumbia,28,AS Roma,Newcastle,13.5,0.9
+735,2015,Emmanuel Emenike,28,Fenerbahce,West Ham,9,0.9
+736,2015,Diego Perotti,27,Genoa,AS Roma,8.55,0.9
+737,2015,Martin Hinteregger,23,RB Salzburg,Bor. M'gladbach,8.1,0.9
+738,2015,Jonathan Calleri,22,Maldonado,Sao Paulo,6.75,0.9
+739,2015,Emil Hallfredsson,31,Hellas Verona,Udinese Calcio,2.7,0.9
+740,2015,Mijo Caktas,23,Hajduk Split,Rubin Kazan,2.7,0.9
+741,2015,Marko Grujic,19,Liverpool,Red Star,2.7,0.9
+742,2015,Giulio Donati,25,Bay. Leverkusen,1.FSV Mainz 05,1.8,0.9
+743,2015,Jan Kirchhoff,25,Bayern Munich ,Sunderland,1.8,0.9
+744,2015,Remi Walter,20,AS Nancy,OGC Nice,1.8,0.9
+745,2015,Federico Barba,22,FC Empoli,VfB Stuttgart,1.62,0.9
+746,2015,Rafael Galhardo,24,Santos FC,RSC Anderlecht,1.58,0.9
+747,2015,Goran Milovic,27,Hajduk Split,CQ Dangdai Lif.,1.35,0.9
+748,2015,Mirko Ivanic,22,Vojvodina,BATE Borisov,1.35,0.9
+749,2015,Hotaru Yamaguchi,25,Cerezo Osaka,Hannover 96,1.35,0.9
+750,2016,Oscar,25,Chelsea,SIPG,31.5,54
+751,2016,Julian Draxler,23,VfL Wolfsburg,Paris SG,25.2,32.4
+752,2016,Gabriel Jesus,19,Palmeiras,ManCity,14.4,28.8
+753,2016,Goncalo Guedes,20,Benfica,Paris SG,8.1,27
+754,2016,Dimitri Payet,29,West Ham,Marseille,27,26.37
+755,2016,Odion Ighalo,27,Watford,CC Yatai,10.8,20.97
+756,2016,Morgan Schneiderlin,27,ManUtd,Everton,25.2,20.61
+757,2016,Chengdong Zhang,27,BJ Sinobo Guoan,HB CFFC,0.428,18.39
+758,2016,Axel Witsel,27,Zenit S-Pb,TJ Quanjian,18,18
+759,2016,Mattia Caldara,22,Atalanta,Juventus,7.2,17.1
+760,2016,Leonardo Pavoletti,28,Genoa,SSC Napoli,11.7,16.2
+761,2016,Alexandre Pato,27,Villarreal,TJ Quanjian,5.4,16.2
+762,2016,Yuhao Zhao,23,ZJ Greentown,HB CFFC,90,16.02
+763,2016,Wilfred Ndidi,20,KRC Genk,Leicester,7.2,15.84
+764,2016,Manolo Gabbiadini,25,SSC Napoli,Southampton,13.5,15.3
+765,2016,Memphis Depay,22,ManUtd,Olympique Lyon,22.5,14.4
+766,2016,Robbie Brady,25,Norwich,Burnley,7.2,13.59
+767,2016,Luka Milivojevic,25,Olympiacos,CrystalPalace Palace,7.2,13.59
+768,2016,Jonathan Soriano,31,RB Salzburg,BJ Sinobo Guoan,5.4,13.5
+769,2016,Helder Costa,23,Benfica,Wolves,2.7,13.5
+770,2016,Rodolfo Pizarro,22,CF Pachuca,Chivas,4.5,13.28
+771,2016,Saido Berahino,23,West Brom,Stoke,13.5,12.51
+772,2016,Jeffrey Schlupp,24,Leicester,CrystalPalace Palace,7.2,12.42
+773,2016,Leon Bailey,19,KRC Genk,Bay. Leverkusen,11.25,12.15
+774,2016,Stevan Jovetic,27,ManCity,Inter,9,12.15
+775,2016,Yunus Malli,24,1.FSV Mainz 05,VfL Wolfsburg,9,11.25
+776,2016,Yongpo Wang,30,SD Luneng,TJ Quanjian,0.36,11.2
+777,2016,Riechedly Bazoer,20,AFC Ajax,VfL Wolfsburg,13.5,10.8
+778,2016,Brown Ideye,28,Olympiacos,TJ Teda,5.4,10.8
+779,2016,Robert Snodgrass,29,Hullcity,West Ham,4.5,10.8
+780,2016,David Neres,19,Sao Paulo,AFC Ajax,0,10.8
+781,2016,Jake Livermore,27,Hullcity,West Brom,4.05,10.35
+782,2016,Min Cui,27,YB Funde,SZ FC,0.158,10.35
+783,2016,Mingjian Zhao,29,SD Luneng,HB CFFC,0.405,9.86
+784,2016,Hang Ren,27,JS Suning,HB CFFC,0.36,9.68
+785,2016,Carlos Tevez,32,Boca Juniors,SH Shenhua,7.65,9.45
+786,2016,Patrick van Aanholt,26,Sunderland,CrystalPalace Palace,5.4,9.45
+787,2016,Scott Hogan,24,Brentford,AstonVilla,0.45,9.45
+788,2016,Kyung-won Kwon,24,Al-Ahli (UAE),TJ Quanjian,0.36,9.45
+789,2016,Dayot Upamecano,18,RB Salzburg,RB Leipzig,4.5,9
+790,2016,Miguel Borja,24,Atl. Nacional,Palmeiras,1.58,8.87
+791,2016,Chenglin Zhang,29,BJ Renhe,GZ Evergrande,0.113,8.69
+792,2016,Walace,21,Gremio,Hamburger SV,8.1,8.28
+793,2016,Jose Fonte,33,Southampton,West Ham,5.4,8.28
+794,2016,Hongbo Yin,27,HN Jianye,HB CFFC,0.203,8.15
+795,2016,Morgan Sanson,22,Montpellier,Marseille,9,8.1
+796,2016,Kamil Grosicki,28,Stade Rennais,Hullcity,5.4,8.1
+797,2016,Ademola Lookman,19,Charlton,Everton,1.35,7.92
+798,2016,Alexander Isak,17,AIK,Bor. Dortmund,1.58,7.74
+799,2016,Borek Dockal,28,Sparta Praha,HN Jianye,3.15,7.65
+800,2016,Jorge,20,Flamengo,Monaco,2.25,7.65
+801,2016,Óscar Romero,24,Racing Club,SH Shenhua,6.3,7.56
+802,2016,Taiyan Jin,27,Liaoning FC,BJ Sinobo Guoan,0.203,7.45
+803,2016,Yang Yu,27,GZ R&F,BJ Sinobo Guoan,0.18,7.44
+804,2016,Yanic Wildschut,25,Wigan,Norwich,0.675,7.38
+805,2016,Shilin Sun,28,Liaoning FC,SH Shenhua,0.18,7.38
+806,2016,Tomas Rincon,28,Genoa,Juventus,8.1,7.2
+807,2016,Hernanes,31,Juventus,HB CFFC,4.5,7.2
+808,2016,Hernani,22,Atletico-PR,Zenit S-Pb,1.58,7.2
+809,2016,Timothee Kolodziejczak,25,Sevilla FC,Bor. M'gladbach,6.3,6.75
+810,2016,Miguel Almiron,22,Lanus,Atlanta United,4.95,6.75
+811,2016,Rudy Gestede,28,AstonVilla,Middlesbrough,6.3,6.39
+812,2016,Geronimo Rulli,24,ManCity,Real Sociedad,7.2,6.3
+813,2016,Odil Akhmedov,29,Krasnodar,SIPG,6.3,6.3
+814,2016,Anwar El Ghazi,21,AFC Ajax,LOSC Lille,5.85,6.3
+815,2016,Harold Preciado,22,Deportivo Cali,SZ FC,1.04,6.3
+816,2016,Patrick Bamford,23,Chelsea,Middlesbrough,4.5,6.21
+817,2016,Haiqing Cao,23,ZJ Greentown,JS Suning,0.158,6.18
+818,2016,Lucas Pratto,28,Atletico-MG,Sao Paulo,4.05,5.58
+819,2016,Iago Falque,27,AS Roma,Torino,7.65,5.4
+820,2016,Eduardo Vargas,27,TSG Hoffenheim,Tigres UANL,5.4,5.4
+821,2016,Andy Delort,25,Tigres UANL,Toulouse,3.6,5.4
+822,2016,Riccardo Orsolini,20,Ascoli,Juventus,1.35,5.4
+823,2016,Christian Bassogog,21,Aalborg BK,HN Jianye,0.315,5.4
+824,2016,Cecilio Dominguez,22,Cerro Porteno,America,0,5.4
+825,2016,Jordan Ayew,25,AstonVilla,Swansea,6.75,5.31
+826,2016,Ashley Westwood,26,AstonVilla,Burnley,3.6,5.22
+827,2016,Tiquinho Soares,26,Vit. Guimaraes,FC Porto,0.9,5.04
+828,2016,Nemanja Gudelj,25,AFC Ajax,TJ Teda,5.85,4.95
+829,2016,Walter Montoya,23,CA Rosario,Sevilla FC,2.16,4.95
+830,2016,Song Wang,33,GZ R&F,JS Suning,0.113,4.95
+831,2016,Zhen Guan,32,SJZ Ever Bright,SZ FC,0.225,4.91
+832,2016,Clement Lenglet,21,AS Nancy,Sevilla FC,2.25,4.86
+833,2016,Markus Henriksen,24,AZ Alkmaar,Hullcity,4.5,4.77
+834,2016,Tom Carroll,24,Tottenham,Swansea,4.5,4.68
+835,2016,Adlène Guedioura,31,Watford,Middlesbrough,0.9,4.68
+836,2016,Hiroshi Kiyotake,27,Sevilla FC,Cerezo Osaka,4.5,4.59
+837,2016,Paul-Georges Ntep,24,Stade Rennais,VfL Wolfsburg,9,4.5
+838,2016,Marinho,26,EC Vitoria,CC Yatai,1.35,4.5
+839,2016,Xiaolong Wang,30,GZ R&F,TJ Quanjian,90,4.46
+840,2016,Jianqing Mao,30,SJZ Ever Bright,SH Shenhua,0.203,4.28
+841,2016,Sebastian Coates,26,Sunderland,Sporting CP,5.4,4.25
+842,2016,Martin Cauteruccio,29,San Lorenzo,CD Cruz Azul,2.25,4.23
+843,2016,Luciano Narsingh,26,PSV Eindhoven,Swansea,4.5,4.14
+844,2016,Sebastian Blanco,28,San Lorenzo,Timbers,3.78,4.14
+845,2016,Martin Olsson,28,Norwich,Swansea,3.15,4.14
+846,2016,Peng Lu,27,BJ Enterprises,BJ Sinobo Guoan,90,4.1
+847,2016,Kevin Lasagna,24,Carpi,Udinese Calcio,2.52,4.05
+848,2016,Josef Martinez,23,Torino,Atlanta United,1.8,4.05
+849,2016,Junshuai Liu,22,Torreense,SD Luneng,45,4.05
+850,2016,Boyu Yang,27,SIPG,JS Suning,90,3.96
+851,2016,Tiago Ilori,23,Liverpool,Reading,2.7,3.87
+852,2016,Matej Mitrovic,23,HNK Rijeka,Besiktas,2.7,3.78
+853,2016,Shanping Yang,29,Liaoning FC,TJ Quanjian,0.203,3.69
+854,2016,Valerio Verre,23,Pescara,Sampdoria,3.6,3.6
+855,2016,Pierre Desire Zebli,19,Perugia,KRC Genk,2.43,3.6
+856,2016,Bruno Henrique,26,VfL Wolfsburg,Santos FC,1.8,3.6
+857,2016,Leonardo,30,Jeonbuk Motors,Al-Jazira,2.25,3.42
+858,2016,Nicolas Castillo,23,Club Brugge,UNAM Pumas,2.25,3.42
+859,2016,Jaime Ayovi,29,Godoy Cruz,BJ Renhe,3.24,3.39
+860,2016,Adriano,29,FC Seoul,SJZ Ever Bright,0,3.38
+861,2016,Rony,21,Cruzeiro,Albirex Niigata,0.36,3.33
+862,2016,Aleksandr Selikhov,22,Amkar Perm,Spartak Moscow,3.6,3.15
+863,2016,Glenn Murray,33,Bournemouth,BrightonAlbion,3.15,3.15
+864,2016,Garry Rodrigues,26,PAOK Salonika,Galatasaray,3.15,3.15
+865,2016,Aleksandr Samedov,32,Loko Moscow,Spartak Moscow,2.7,3.15
+866,2016,Eboue Kouassi,19,Krasnodar,Celtic,1.8,3.15
+867,2016,Yuya Kubo,23,BSC Young Boys,KAA Gent,1.8,3.15
+868,2016,Andrey Lunev,25,Ufa,Zenit S-Pb,1.8,3.15
+869,2016,Farès Bahlouli,21,Monaco,LOSC Lille,0.9,3.15
+870,2016,Conor Hourihane,26,Barnsley FC,AstonVilla,0.45,3.15
+871,2016,James Bree,19,Barnsley FC,AstonVilla,0.225,3.15
+872,2016,Victor Osimhen,18,Ult. Strikers,VfL Wolfsburg,0,3.15
+873,2016,Henri Lansbury,26,Nottm Forest,AstonVilla,1.8,3.06
+874,2016,Michael Olunga,22,Djurgarden,GZ Hengfeng,0.63,3.06
+875,2016,Bowen Huang,20,SH Shenhua,WH Zall,68,3.06
+876,2016,Orlando Berrio,25,Atl. Nacional,Flamengo,0.9,2.93
+877,2016,Martin Rodriguez,22,Colo Colo,CD Cruz Azul,0.81,2.81
+878,2016,Junior Caicara,27,FC Schalke 04,Basaksehir,3.6,2.7
+879,2016,Adrien Trebel,25,Standard Liege,RSC Anderlecht,3.6,2.7
+880,2016,Luan,23,Vasco da Gama,Palmeiras,3.38,2.7
+881,2016,Lovre Kalinic,26,Hajduk Split,KAA Gent,3.38,2.7
+882,2016,Romain Alessandrini,27,Marseille,LA Galaxy,3.15,2.7
+883,2016,Nemanja Nikolics,29,Legia Warszawa,Chicago Fire,3.15,2.7
+884,2016,Younousse Sankhare,27,LOSC Lille,G. Bordeaux,3.15,2.7
+885,2016,Yura Movsisyan,29,Spartak Moscow,Salt Lake,2.7,2.7
+886,2016,Cleber Reis,26,Hamburger SV,Santos FC,2.25,2.7
+887,2016,Uros Matic,26,Sturm Graz,FC Copenhagen,1.8,2.7
+888,2016,Gabriel Magalhaes,19,Avai FC,LOSC Lille,0.315,2.7
+889,2016,Ademilson,22,Sao Paulo,Gamba Osaka,1.17,2.69
+890,2016,Marcelo Hermes,22,Gremio,Benfica,0.45,2.62
+891,2016,David Nugent,31,Middlesbrough,Derby,3.15,2.61
+892,2016,Sergi Canos,20,Norwich,Brentford,2.25,2.61
+893,2016,Alejandro Guerra,31,Atl. Nacional,Palmeiras,1.04,2.61
+894,2016,Zach Clough,21,Bolton,Nottm Forest,0.675,2.61
+895,2016,Ángel Mena,28,CS Emelec,CD Cruz Azul,1.98,2.57
+896,2016,Christian Clemens,25,1.FSV Mainz 05,1. FC Koln,2.7,2.48
+897,2016,Mauro Zarate,29,Fiorentina,Watford,1.8,2.48
+898,2016,Yuanyi Li,23,GZ Evergrande,TJ Teda,90,2.48
+899,2016,Pedro Pereira,19,Sampdoria,Benfica,1.8,2.39
+900,2016,Tjaronn Chery,28,QPR,GZ Hengfeng,4.05,2.39
+901,2016,Cleiton Silva,30,Muangthong Utd.,SH Shenxin,0.675,2.37
+902,2016,Ali Ghazal,24,Nacional,GZ Hengfeng,2.25,2.34
+903,2016,Daniel Caligiuri,29,VfL Wolfsburg,FC Schalke 04,5.85,2.25
+904,2016,Ahmet Calik,22,Genclerbirligi,Galatasaray,4.5,2.25
+905,2016,Elias,31,Sporting CP,Atletico-MG,4.5,2.25
+906,2016,Leonardo Morosini,21,Brescia,Genoa,1.98,2.25
+907,2016,Evandro,30,FC Porto,Hullcity,1.8,2.25
+908,2016,Carlos Auzqui,25,Estudiantes,River Plate,1.8,2.25
+909,2016,Bernard Berisha,25,Anzhi,Akhmat Grozny,1.8,2.25
+910,2016,Robin Quaison,23,US Palermo,1.FSV Mainz 05,1.8,2.25
+911,2016,Tamas Kadar,26,Lech Poznan,Dynamo Kyiv,1.58,2.25
+912,2016,Darron Gibson,29,Everton,Sunderland,1.35,2.25
+913,2016,Jerome Onguene,19,FC Sochaux,VfB Stuttgart,1.35,2.25
+914,2016,Haolun Mi,23,SJZ Ever Bright,TJ Quanjian,0.158,2.25
+915,2016,Joaquin Ardaiz,18,Danubio FC,Tanque Sisley,0.158,2.25
+916,2016,Francesco Antonucci,17,Ajax U19,Monaco U19,0,2.25
+917,2016,Junior Alonso,23,Cerro Porteno,LOSC Lille,0,2.25
+918,2016,Juan Martin Lucero,25,Johor DT,Club Tijuana,2.16,2.2
+919,2016,Razvan Marin,20,FC Viitorul,Standard Liege,1.8,2.16
+920,2016,Georgiy Dzhikiya,23,Amkar Perm,Spartak Moscow,2.25,2.12
+921,2016,Mamadou Sakho,26,Liverpool,CrystalPalace Palace,10.8,2.07
+922,2016,Kerim Frei,23,Besiktas,Birmingham,4.05,2.03
+923,2016,Christian Gytkjaer,26,Rosenborg BK,1860 Munich,1.17,2.03
+924,2016,Dorin Rotariu,21,Dinamo Bukarest,Club Brugge,1.58,1.98
+925,2016,Junior Moraes,29,Dynamo Kyiv,TJ Quanjian,3.15,1.89
+926,2016,Denis Alibec,26,Astra Giurgiu,FCSB,2.25,1.84
+927,2016,Simone Zaza,25,Juventus,Valencia,13.5,1.8
+928,2016,Roberto Gagliardini,22,Atalanta,Inter,7.2,1.8
+929,2016,Victor Cuesta,28,Independiente,Internacional,3.6,1.8
+930,2016,Gabriel,24,Monte Azul-SP,Corinthians,3.6,1.8
+931,2016,Luis Hernandez,27,Leicester,Malaga CF,3.15,1.8
+932,2016,Thomas Delaney,25,FC Copenhagen,Werder Bremen,3.15,1.8
+933,2016,Bryan Oviedo,26,Everton,Sunderland,2.7,1.8
+934,2016,Birkir Bjarnason,28,FC Basel,AstonVilla,2.7,1.8
+935,2016,Emerson,22,Santos FC,AS Roma,2.7,1.8
+936,2016,Matias Alustiza,32,Puebla FC,Atlas,1.62,1.8
+937,2016,Mathieu Peybernes,26,SC Bastia,FC Lorient,1.35,1.8
+938,2016,Viktor Claesson,25,Elfsborg,Krasnodar,1.35,1.8
+939,2016,Pawel Wszolek,24,Hellas Verona,QPR,1.08,1.8
+940,2016,Filipe Augusto,23,Rio Ave FC,Benfica,0.72,1.8
+941,2016,Sander Berge,18,Valerenga,KRC Genk,0.72,1.8
+942,2016,Bartosz Bereszynski,24,Legia Warszawa,Sampdoria,0.54,1.8
+943,2016,Hyoran,23,Chapecoense,Palmeiras,0.45,1.8
+944,2016,Zhichao Li,28,JS Suning,WH Zall,0.113,1.8
+945,2016,Baixu Xiang,21,TJ Quanjian,GZ R&F,23,1.8
+946,2016,Dalong Wang,27,ZJ Yiteng,SZ FC,90,1.73
+947,2016,Aleksandar Prijovic,26,Legia Warszawa,PAOK Salonika,1.35,1.71
+948,2016,Leandro Gonzalez Pirez,24,Estudiantes,Atlanta United,2.34,1.68
+949,2016,Jose Naranjo,22,Celta de Vigo,KRC Genk,1.8,1.62
+950,2016,Mergim Mavraj,30,1. FC Koln,Hamburger SV,1.58,1.62
+951,2016,Milan Djuric,26,RC Cesena,Bristol City,0.9,1.62
+952,2016,Sverrir Ingi Ingason,23,KSC Lokeren,Granada CF,0.9,1.62
+953,2016,Wescley,25,Atletico-MG,Vissel Kobe,0.405,1.62
+954,2016,Ruben Botta,27,CF Pachuca,San Lorenzo,2.07,1.53
+955,2016,Junior Sornoza,22,Independiente,Fluminense,1.98,1.53
+956,2016,Jefferson Orejuela,23,Independiente,Fluminense,1.35,1.53
+957,2016,Isaac Mbenza,20,Standard Liege,Montpellier,1.08,1.53
+958,2016,Cheick Keita,20,Virtus Entella,Birmingham,0.81,1.53
+959,2016,Keagan Dolly,24,Sundowns,Montpellier,0.72,1.53
+960,2016,Miha Zajc,22,NK Olimpija,FC Empoli,0.72,1.53
+961,2016,Irfan Can Kahveci,21,Genclerbirligi,Basaksehir,2.25,1.45
+962,2016,Pedro Henrique,26,Stade Rennais,PAOK Salonika,2.7,1.44
+963,2016,Hugo Rodallega,31,Akhisarspor,Trabzonspor,2.52,1.44
+964,2016,Sebastian Polter,25,QPR,Union Berlin,1.8,1.44
+965,2016,Tesfaldet Tekie,19,Norrkoping,KAA Gent,0.45,1.44
+966,2016,Xiaoheng Nan,21,XJ T. Leopard,JS Suning Res.,68,1.37
+967,2016,Riccardo Saponara,25,FC Empoli,Fiorentina,10.8,1.35
+968,2016,Marcos Guilherme,21,Atletico-PR,Dinamo Zagreb,4.05,1.35
+969,2016,Emmanuel Mas,27,San Lorenzo,Trabzonspor,3.6,1.35
+970,2016,Gregory Sertic,27,G. Bordeaux,Marseille,3.6,1.35
+971,2016,Marcelo Meli,24,Boca Juniors,Racing Club,2.7,1.35
+972,2016,Guido Burgstaller,27,1.FC Nuremberg,FC Schalke 04,1.8,1.35
+973,2016,Dieumerci Ndongala,25,KAA Gent,Standard Liege,1.35,1.35
+974,2016,Cristian Ramirez,22,Ferencvaros,Krasnodar,1.35,1.35
+975,2016,Luis Caicedo,24,Independiente,Cruzeiro,1.26,1.35
+976,2016,Moritz Leitner,24,Lazio,FC Augsburg,1.26,1.35
+977,2016,Gerso,25,Belenenses,Kansas,1.13,1.35
+978,2016,Ebenezer Ofori,21,AIK,VfB Stuttgart,1.08,1.35
+979,2016,Carlos Strandberg,20,CSKA Moscow,Club Brugge,0.9,1.35
+980,2016,Vincent Sierro,21,FC Sion,SC Freiburg,0.9,1.35
+981,2016,Chang-hun Kwon,22,Suwon Bluewings,Dijon,0.81,1.35
+982,2016,Lukas Pokorný,23,Slovan Liberec,Montpellier,0.72,1.35
+983,2016,Nordi Mukiele,19,Stade Laval,Montpellier,0.72,1.35
+984,2016,Andrea Beghetto,22,SPAL,Genoa,0.54,1.35
+985,2016,Lee Grant,33,Derby,Stoke,0.45,1.35
+986,2016,Francisco Vera,22,Benfica B,Rubio Ñu,0.315,1.35
+987,2016,Bassem Srarfi,19,Club Africain,OGC Nice,0.248,1.35
+988,2016,Joao Pedro,23,Vit. Guimaraes,LA Galaxy,0.9,1.31
+989,2016,Yeferson Soteldo,19,Zamora,Huachipato FC,0.495,1.3
+990,2016,Rafael Assis,26,Chaves,Braga,0.72,1.27
+991,2016,Ben Marshall,25,Blackburn,Wolves,1.35,1.26
+992,2016,Jin-su Kim,24,TSG Hoffenheim,Jeonbuk Motors,1.35,1.26
+993,2016,Juan Manuel Valencia,18,Cortulua,Bologna,0.45,1.26
+994,2016,Jose Leguizamon,25,Olimpia,CA Rosario,0,1.26
+995,2016,Wei Wang,27,QD Jonoon,SH Shenhua,68,1.24
+996,2016,Junpeng Du,26,Tianjin Res.,BD Yingli Yiton,45,1.24
+997,2016,Xueming Liang,21,GZ Evergrande,GZ Hengfeng,45,1.23
+998,2016,Tanaboon Kesarat,23,Muangthong Utd.,Chiangrai Utd.,0.27,1.22
+999,2016,Xu Han,28,DL Transcen.,DL Yifang,90,1.22
+1000,2017,Philippe Coutinho,25,Liverpool,FC Barcelona,81,0.117
+1001,2017,Virgil van Dijk,26,Southampton,Liverpool,27,70.92
+1002,2017,Diego Costa,29,Chelsea,Atletico Madrid,45,59.4
+1003,2017,Aymeric Laporte,23,Athletic,ManCity,22.5,58.5
+1004,2017,Pierre-Emerick Aubameyang,28,Bor. Dortmund,Arsenal,58.5,57.38
+1005,2017,Cedric Bakambu,26,Villarreal,BJ Sinobo Guoan,22.5,36
+1006,2017,Alexis Sanchez,29,Arsenal,ManUtd,63,30.6
+1007,2017,Henrikh Mkhitaryan,29,ManUtd,Arsenal,31.5,30.6
+1008,2017,Inigo Martinez,26,Real Sociedad,Athletic,22.5,28.8
+1009,2017,Yannick Carrasco,24,Atletico Madrid,DL Yifang,36,27
+1010,2017,Lucas Moura,25,Paris SG,Tottenham,25.2,25.56
+1011,2017,Andre Ayew,28,West Ham,Swansea,16.2,20.52
+1012,2017,Theo Walcott,28,Arsenal,Everton,18,20.25
+1013,2017,Cenk Tosun,26,Besiktas,Everton,9.45,20.25
+1014,2017,Guido Carrillo,26,Monaco,Southampton,5.4,19.8
+1015,2017,Manuel Akanji,22,FC Basel,Bor. Dortmund,4.5,19.35
+1016,2017,Pietro Pellegri,16,Genoa,Monaco,7.2,18.9
+1017,2017,Emerson,23,AS Roma,Chelsea,12.6,18
+1018,2017,Olivier Giroud,31,Arsenal,Chelsea,18,15.3
+1019,2017,Jurgen Locadia,24,PSV Eindhoven,BrightonAlbion,7.65,15.3
+1020,2017,Ross Barkley,24,Everton,Chelsea,22.5,15.21
+1021,2017,Badou Ndiaye,27,Galatasaray,Stoke,6.3,14.4
+1022,2017,Francis Coquelin,26,Arsenal,Valencia,10.8,12.6
+1023,2017,Sandro Wagner,30,TSG Hoffenheim,Bayern Munich ,8.1,11.7
+1024,2017,Alex Pritchard,24,Norwich,Huddersfield,4.5,11.12
+1025,2017,Ezequiel Barco,18,Independiente,Atlanta United,5.85,11.05
+1026,2017,Maximiliano Romero,18,Velez Sarsfield,PSV Eindhoven,3.6,10.8
+1027,2017,Yerry Mina,23,Palmeiras,FC Barcelona,8.1,10.62
+1028,2017,Lucas Pratto,29,Sao Paulo,River Plate,4.05,10.35
+1029,2017,Martin Terrier,20,LOSC Lille,Olympique Lyon,10.8,9.9
+1030,2017,Guilherme Arana,20,Corinthians,Sevilla FC,9,9.9
+1031,2017,Jonathan Viera,28,UD Las Palmas,BJ Sinobo Guoan,7.2,9.9
+1032,2017,Jo,30,Corinthians,Nagoya Grampus,3.6,9.9
+1033,2017,Marc Bartra,27,Bor. Dortmund,Real Betis,13.5,9.45
+1034,2017,Jordan Hugill,25,Preston NE,West Ham,2.7,9.18
+1035,2017,Diafra Sakho,28,West Ham,Stade Rennais,7.2,9
+1036,2017,Alexander Sorloth,22,FC Midtjylland,CrystalPalace Palace,1.8,8.1
+1037,2017,Sofiane Hanni,27,RSC Anderlecht,Spartak Moscow,6.3,7.2
+1038,2017,Admir Mehmedi,26,Bay. Leverkusen,VfL Wolfsburg,3.15,7.2
+1039,2017,Rafik Guitane,18,AC Le Havre,Stade Rennais,0.135,7.2
+1040,2017,Wendel,20,Fluminense,Sporting CP,6.75,6.75
+1041,2017,Milot Rashica,21,Vitesse,Werder Bremen,4.5,6.3
+1042,2017,Pol Lirola,20,Juventus,Sassuolo,4.5,6.3
+1043,2017,Gary Madine,27,Bolton,CardiffCity,0.27,6.12
+1044,2017,Moritz Bauer,25,Rubin Kazan,Stoke,2.7,5.58
+1045,2017,Hector Moreno,30,AS Roma,Real Sociedad,4.5,5.4
+1046,2017,Jonathan Urretaviscaya,27,CF Pachuca,Monterrey,3.15,5.29
+1047,2017,Nico Gaitan,30,Atletico Madrid,DL Yifang,13.5,5.18
+1048,2017,Ricardo Centurion,25,Genoa,Racing Club,3.6,5.13
+1049,2017,Jose Fonte,34,West Ham,DL Yifang,4.5,5.01
+1050,2017,Mario Rui,26,AS Roma,SSC Napoli,7.2,4.95
+1051,2017,Javier Mascherano,33,FC Barcelona,HB CFFC,5.4,4.95
+1052,2017,Richmond Boakye,25,Red Star,JS Suning,5.4,4.95
+1053,2017,Alejandro Romero Gamarra,23,Huracan,NY Red Bulls,3.15,4.95
+1054,2017,Walter Montoya,24,Sevilla FC,CD Cruz Azul,2.7,4.95
+1055,2017,Rasmus Kristensen,20,FC Midtjylland,AFC Ajax,1.58,4.95
+1056,2017,Dodo,26,Inter,Sampdoria,1.35,4.95
+1057,2017,Adam Forshaw,26,Middlesbrough,Leeds,2.7,4.59
+1058,2017,Carlos Vela,28,Real Sociedad,Los Angeles FC,9,4.5
+1059,2017,Dodi Lukebakio,20,RSC Charleroi,Watford,2.7,4.5
+1060,2017,Ahmed Hegazy,26,Ahly,West Brom,2.7,4.5
+1061,2017,Rafael Silva,25,Urawa Reds,WH Zall,1.22,4.5
+1062,2017,Achraf Bencharki,23,Wydad AC,Hilal,0.9,4.5
+1063,2017,Federico Mattiello,22,Juventus,Atalanta,0.9,4.5
+1064,2017,Orlando Sa,29,Standard Liege,HN Jianye,1.98,4.32
+1065,2017,Elmir Nabiullin,22,Rubin Kazan,Zenit S-Pb,4.5,4.05
+1066,2017,Augusto Fernandez,31,Atletico Madrid,BJ Renhe,3.6,4.05
+1067,2017,Nicolas Tagliafico,25,Independiente,AFC Ajax,5.4,3.6
+1068,2017,Bryan Dabo,25,Saint-Etienne,Fiorentina,3.6,3.6
+1069,2017,Ezequiel Cerutti,26,San Lorenzo,Hilal,3.15,3.6
+1070,2017,Benjamin Verbic,24,FC Copenhagen,Dynamo Kyiv,1.8,3.6
+1071,2017,Jack Harrison,21,NYCFC,ManCity,1.58,3.6
+1072,2017,Pontus Dahlberg,19,IFK Goteborg,Watford,0.72,3.51
+1073,2017,Anthony Ujah,27,Liaoning FC,1.FSV Mainz 05,2.7,3.42
+1074,2017,Nicolae Stanciu,24,RSC Anderlecht,Sparta Praha,3.6,3.38
+1075,2017,Johnathan,27,Suwon Bluewings,TJ Teda,1.35,3.33
+1076,2017,Frank Acheampong,24,RSC Anderlecht,TJ Teda,4.05,3.15
+1077,2017,Andrew Gravillon,19,Benevento,Pescara,0.9,3.15
+1078,2017,Jose Sosa,32,AC Milan,Trabzonspor,3.6,3.06
+1079,2017,Silvio Romero,29,America,Independiente,3.15,3.06
+1080,2017,Cyrus Christie,25,Middlesbrough,Fulham,1.8,3.06
+1081,2017,Fernando Gaibor,26,CS Emelec,Independiente,1.44,3.06
+1082,2017,Andres Ibarguen,25,Racing Club,America,3.6,2.97
+1083,2017,Magomed Ozdoev,25,Rubin Kazan,Zenit S-Pb,2.7,2.97
+1084,2017,Steve,23,YB Funde,Vejle BK,1.26,2.95
+1085,2017,Steve,23,Vejle BK,GZ Hengfeng,1.26,2.95
+1086,2017,Bruno Zuculini,24,Hellas Verona,River Plate,1.53,2.93
+1087,2017,Damir Ceter,20,Quindio,Cagliari Calcio,0.315,2.88
+1088,2017,Franco Armani,31,Atl. Nacional,River Plate,1.44,2.84
+1089,2017,Vincent Koziello,22,OGC Nice,1. FC Koln,9.9,2.7
+1090,2017,Mario Gomez,32,VfL Wolfsburg,VfB Stuttgart,5.4,2.7
+1091,2017,Seydou Doumbia,30,AS Roma,Sporting CP,4.5,2.7
+1092,2017,Simon Terodde,29,VfB Stuttgart,1. FC Koln,2.7,2.7
+1093,2017,Vagner Love,33,Alanyaspor,Besiktas,2.25,2.7
+1094,2017,Sergio Gomez,17,Barca U19,Bor. Dortmund,0,2.7
+1095,2017,Henrique Dourado,28,Fluminense,Flamengo,3.6,2.61
+1096,2017,Tyler Roberts,19,WestbromU23,Leeds,0.225,2.57
+1097,2017,Josip Misic,23,HNK Rijeka,Sporting CP,2.12,2.48
+1098,2017,Jaroslaw Jach,23,Zaglebie Lubin,CrystalPalace Palace,1.8,2.48
+1099,2017,Viktor Fischer,23,1.FSV Mainz 05,FC Copenhagen,2.7,2.43
+1100,2017,David,22,EC Vitoria,Cruzeiro,1.35,2.34
+1101,2017,Boxuan Song,28,BJ Sinobo Guoan,TJ Quanjian,0.135,2.34
+1102,2017,Dragan Boskovic,32,Bangkok Utd.,Port FC,0.585,2.32
+1103,2017,Diego Souza,32,Sport Recife,Sao Paulo,4.5,2.3
+1104,2017,Fred,34,Atletico-MG,Cruzeiro,2.7,2.3
+1105,2017,Zhipeng Jiang,28,GZ R&F,HB CFFC,0.765,2.3
+1106,2017,Junjie Wen,20,ZJ Greentown,TJ Quanjian,90,2.3
+1107,2017,Charly Musonda Jr.,21,Chelsea,Celtic,4.5,2.25
+1108,2017,Ryota Morioka,26,Waasl.-Beveren,RSC Anderlecht,3.6,2.25
+1109,2017,Andre,27,Sport Recife,Gremio,3.6,2.25
+1110,2017,Gojko Cimirot,25,PAOK Salonika,Standard Liege,3.15,2.25
+1111,2017,Jonatan Álvez,29,Barcelona SC,Junior FC,1.8,2.25
+1112,2017,Carlos Fierro,23,Chivas,CD Cruz Azul,1.35,2.25
+1113,2017,Quenten Martinus,26,Yokohama F. M.,Urawa Reds,0.99,2.25
+1114,2017,Onel Hernandez,24,E. Braunschweig,Norwich,0.72,2.25
+1115,2017,Lumor,21,Portimonense,Sporting CP,0.72,2.25
+1116,2017,Diego Rossi,19,Penarol,Los Angeles FC,0.675,2.25
+1117,2017,Jonathan Menendez,23,CA Talleres,Independiente,3.15,2.16
+1118,2017,Daniel Sturridge,28,Liverpool,West Brom,18,2.07
+1119,2017,Emmanuel Mas,28,Trabzonspor,Boca Juniors,3.6,2.07
+1120,2017,Alessio Da Cruz,20,Novara,Parma,0.9,2.07
+1121,2017,Lasse Vibe,30,Brentford,CC Yatai,2.25,2.04
+1122,2017,Dodi Lukebakio,20,RSC Anderlecht,RSC Charleroi,2.7,1.98
+1123,2017,Moussa Kone,21,FC Zurich,Dynamo Dresden,1.35,1.94
+1124,2017,Konstantinos Mavropanos,20,PAS Giannina,Arsenal,0.405,1.89
+1125,2017,Jean-Claude Billong,24,NK Maribor,Benevento,0.36,1.89
+1126,2017,Alessandro Di Pardo,18,SPAL U19,Juventus U19,0.113,1.89
+1127,2017,Mateus Vital,19,Vasco da Gama,Corinthians,1.35,1.85
+1128,2017,Oleg Shatov,27,Zenit S-Pb,Krasnodar,7.65,1.8
+1129,2017,Alejandro Arribas,28,Dep. La Coruna,UNAM Pumas,2.7,1.8
+1130,2017,Pedrao,25,Cianorte,Vit. Guimaraes,2.25,1.8
+1131,2017,Oussama Idrissi,21,FC Groningen,AZ Alkmaar,2.25,1.8
+1132,2017,Pavel Mogilevets,25,Rostov,Rubin Kazan,2.16,1.8
+1133,2017,Dodo,19,Coritiba FC,Shakhtar D.,1.8,1.8
+1134,2017,Junior Kabananga,28,FC Astana,Al-Nassr,1.62,1.8
+1135,2017,Ferjani Sassi,25,Esperance,Al-Nassr,1.35,1.8
+1136,2017,Braian Romero,26,Argentinos,Independiente,1.13,1.8
+1137,2017,Bjorn Sigurdarson,26,Molde FK,Rostov,1.08,1.8
+1138,2017,Krepin Diatta,18,Sarpsborg 08,Club Brugge,0.9,1.8
+1139,2017,Rafa Mir,20,Valencia B,Wolves,0.9,1.8
+1140,2017,Martin Dubravka,29,Sparta Praha,Newcastle,0.81,1.8
+1141,2017,Leonardo Mancuso,25,Pescara,Juventus,0.72,1.8
+1142,2017,Ianis Hagi,19,Fiorentina,FC Viitorul,0.675,1.8
+1143,2017,Mattia Vitale,20,Juventus,SPAL,0.45,1.8
+1144,2017,Perr Schuurs,18,Fortuna Sittard,AFC Ajax,0.45,1.8
+1145,2017,Óscar Estupinan,20,Once Caldas,Vit. Guimaraes,0.405,1.8
+1146,2017,Ihsan Sacko,20,R. Strasbourg,OGC Nice,0.36,1.8
+1147,2017,Yoane Wissa,21,SCO Angers,FC Lorient,0.27,1.8
+1148,2017,Fabrizio Caligara,17,Juventus U19,Cagliari Calcio,0.135,1.8
+1149,2017,Mads Bidstrup,16,Copenhagen U19,RB Leipzig U17,0,1.8
+1150,2017,Dominik Kotarski,17,Din. Zagreb U19,Ajax U21,0,1.8
+1151,2017,Nicolas Kuhn,18,RB Leipzig U19,Ajax U21,0,1.8
+1152,2017,Fousseni Diabate,22,G. Ajaccio,Leicester,0,1.8
+1153,2017,Filip Novak,27,FC Midtjylland,Trabzonspor,0.63,1.71
+1154,2017,Cyle Larin,22,Orlando City SC,Besiktas,3.15,1.67
+1155,2017,Simone Ganz,24,Pescara,Ascoli,0.9,1.62
+1156,2017,Renato Steffen,26,FC Basel,VfL Wolfsburg,3.15,1.58
+1157,2017,Anthony Lozano,24,FC Barcelona B,Girona,1.35,1.58
+1158,2017,Gabriel Barbosa,21,Inter,Santos FC,10.8,1.53
+1159,2017,Aaron Lennon,30,Everton,Burnley,4.5,1.53
+1160,2017,Cameron Jerome,31,Norwich,Derby,2.25,1.53
+1161,2017,Laurens De Bock,25,Club Brugge,Leeds,1.98,1.53
+1162,2017,Dominic Vinicius,23,Vejle BK,BJ Enterprises,0.27,1.53
+1163,2017,Leonardo Sigali,30,Dinamo Zagreb,Racing Club,2.25,1.51
+1164,2017,Xu Han,29,DL Yifang,MX Techand,90,1.5
+1165,2017,Cristian Bunino,21,Juventus,Pescara,0.203,1.49
+1166,2017,Juan Cala,28,Getafe,HN Jianye,1.8,1.44
+1167,2017,Diego Braghieri,30,Lanus,Atl. Nacional,1.35,1.44
+1168,2017,Alejandro Donatti,31,Club Tijuana,Racing Club,0.9,1.44
+1169,2017,Salah Mohsen,19,Enppi,Ahly,0.36,1.44
+1170,2017,Santiago Trellez,28,EC Vitoria,Sao Paulo,1.13,1.4
+1171,2017,Michy Batshuayi,24,Chelsea,Bor. Dortmund,22.5,1.35
+1172,2017,Ángelo Henriquez,23,Dinamo Zagreb,Atlas,2.7,1.35
+1173,2017,Federico Mancuello,28,Flamengo,Cruzeiro,2.7,1.35
+1174,2017,Vyacheslav Karavaev,22,Sparta Praha,Vitesse,2.52,1.35
+1175,2017,Alexander Scholz,25,Standard Liege,Club Brugge,2.25,1.35
+1176,2017,Diogo Barbosa,25,Coimbra-MG,Palmeiras,2.25,1.35
+1177,2017,Fabian Frei,29,1.FSV Mainz 05,FC Basel,2.03,1.35
+1178,2017,Alejandro Silva,28,Lanus,Montreal Impact,1.8,1.35
+1179,2017,Konstantin Rausch,27,1. FC Koln,Dinamo Moscow,1.8,1.35
+1180,2017,Igor Sergeev,24,Pakhtakor,Al-Dhafra SCC,1.62,1.35
+1181,2017,Jean,22,EC Bahia,Sao Paulo,1.58,1.35
+1182,2017,Ante Erceg,28,Hajduk Split,Shabab Dubai,1.58,1.35
+1183,2017,Erick Torres,25,Houston,UNAM Pumas,1.35,1.35
+1184,2017,Anton Zabolotny,26,Tosno,Zenit S-Pb,1.35,1.35
+1185,2017,Ivan Tomecak,28,KV Mechelen,Club Brugge,1.08,1.35
+1186,2017,Javi Fuego,34,Espanyol,Villarreal,0.9,1.35
+1187,2017,Adis Jahovic,30,Goztepe,Konyaspor,0.9,1.35
+1188,2017,Juninho Capixaba,20,EC Bahia,Corinthians,0.81,1.35
+1189,2017,Ondrej Mihalik,20,FK Jablonec,AZ Alkmaar,0.765,1.35
+1190,2017,Vitalie Damascan,18,Sheriff,Torino,0.765,1.35
+1191,2017,Nikolas Spalek,20,MSK Zilina,Brescia,0.495,1.35
+1192,2017,Dennis Srbeny,23,SC Paderborn,Norwich,0.36,1.35
+1193,2017,Kaloyan Krastev,19,Slavia Sofia,Bologna U19,0.18,1.35
+1194,2017,Alessandro Tripaldelli,18,Juventus U19,Sassuolo U19,68,1.35
+1195,2017,Alan Dzabana,20,Olymp. Lyon B,AC Le Havre,0,1.35
+1196,2017,Mitchell Langerak,29,Levante,Nagoya Grampus,0.9,1.31
+1197,2017,Andre Poko,25,Karabukspor,Goztepe,1.58,1.26
+1198,2017,Jack Hendry,22,Dundee FC,Celtic,0.225,1.23
+1199,2017,Florin Nita,30,FCSB,Sparta Praha,1.8,1.22
+1200,2017,Thibault Moulin,28,Legia Warszawa,PAOK Salonika,1.49,1.17
+1201,2017,Sigurd Rosted,23,Sarpsborg 08,KAA Gent,0.63,1.17
+1202,2017,Artur,21,Sao Paulo,Columbus Crew,0.72,1.14
+1203,2017,Anton Nedyalkov,24,CSKA Sofia,"FC Dallas	",0.54,1.14
+1204,2017,Bruno Silva,31,Botafogo,Cruzeiro,1.8,1.13
+1205,2017,Emerson Santos,22,Botafogo,Palmeiras,1.35,1.13
+1206,2017,Diogo Figueiras,26,Olympiacos,Braga,2.7,1.13
+1207,2017,Kawin Thamsatchanan,27,Muangthong Utd.,OH Leuven,0.36,1.13
+1208,2017,Yeferson Soteldo,20,Huachipato FC,U. de Chile,1.8,1.11
+1209,2017,Vladimir Hernandez,28,Santos FC,Atl. Nacional,0.81,1.1
+1210,2017,Joao Mario,25,Inter,West Ham,23.4,1.08
+1211,2017,Emanuel Reynoso,22,CA Talleres,Boca Juniors,4.05,1.08
+1212,2017,Jucilei,29,SD Luneng,Sao Paulo,3.6,1.08
+1213,2017,Javier Correa,25,Godoy Cruz,Colon,2.25,1.08
+1214,2017,Franck Ohandza,26,Hajduk Split,SZ FC,1.22,1.08
+1215,2017,Yohan Croizet,25,KV Mechelen,Kansas,1.08,1.08
+1216,2017,Magnus Eriksson,27,Djurgarden,Quakes,0.99,1.08
+1217,2017,Fernando Monetti,28,Lanus,Atl. Nacional,2.25,1.04
+1218,2017,Marvin Compper,32,RB Leipzig,Celtic,0.9,1.03
+1219,2017,Lucas Holer,23,SV Sandhausen,SC Freiburg,0.81,0.99
+1220,2017,Liam Walsh,20,Everton U23,Bristol City,0.225,0.99
+1221,2017,Anthony Blondell,23,Monagas SC,Vancouver,0.54,0.983
+1222,2017,Kevin Deeromram,20,Ratchaburi FC,Port FC,90,0.923
+1223,2017,Gerard Deulofeu,23,FC Barcelona,Watford,12.6,0.9
+1224,2017,Mauricio Lemos,22,UD Las Palmas,Sassuolo,5.4,0.9
+1225,2017,Iuri Medeiros,23,Sporting CP,Genoa,4.5,0.9
+1226,2017,Yuto Nagatomo,31,Inter,Galatasaray,3.15,0.9
+1227,2017,Daniel Bessa,25,Hellas Verona,Genoa,3.15,0.9
+1228,2017,Sebastian Langkamp,30,Hertha BSC,Werder Bremen,2.7,0.9
+1229,2017,Guelor Kanga,27,Red Star,Sparta Praha,2.7,0.9
+1230,2017,Gaston Gimenez,26,Godoy Cruz,Estudiantes,2.48,0.9
+1231,2017,Paul Baysse,29,Malaga CF,G. Bordeaux,2.25,0.9
+1232,2017,Lucas Villafanez,26,Panathinaikos,Alanyaspor,1.8,0.9
+1233,2017,Ruben Rochina,26,Rubin Kazan,Levante,1.8,0.9
+1234,2017,Francesco Margiotta,24,Juventus,Lausanne-Sport,1.58,0.9
+1235,2017,Damien Marcq,29,KAA Gent,Zulte Waregem,1.53,0.9
+1236,2017,Alexandru Ionita,23,Astra Giurgiu,CFR Cluj,1.35,0.9
+1237,2017,Roy Beerens,30,Reading,Vitesse,1.35,0.9
+1238,2017,Sardor Rashidov,26,Al-Jazira,Loko Tashkent,1.35,0.9
+1239,2017,Ibrahima Seck,28,Waasl.-Beveren,KRC Genk,1.35,0.9
+1240,2017,Simone Romagnoli,27,Carpi,FC Empoli,1.26,0.9
+1241,2017,Stiven Mendoza,25,Corinthians,SC Amiens,1.13,0.9
+1242,2017,Felix Bastians,29,VfL Bochum,TJ Teda,1.08,0.9
+1243,2017,German Mera,27,Club Brugge,KV Mechelen,0.9,0.9
+1244,2017,Robert Skov,21,Silkeborg IF,FC Copenhagen,0.9,0.9
+1245,2017,Armando Sadiku,26,Legia Warszawa,Levante,0.81,0.9
+1246,2017,Simone Rapp,25,FC Thun,Lausanne-Sport,0.81,0.9
+1247,2017,Cedric Teuchert,20,1.FC Nuremberg,FC Schalke 04,0.72,0.9
+1248,2017,Tomas Chory,22,Sigma Olomouc,Viktoria Plzen,0.63,0.9
+1249,2017,Andrej Lukic,23,NK Osijek,Braga,0.54,0.9
